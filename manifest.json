@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.07.29.0100",
-    "generatedAt":  "2026-07-29T01:00:53",
+    "version":  "patch-2026.07.30.1135",
+    "generatedAt":  "2026-07-30T11:35:09",
     "root":  "files",
     "files":  [
                   {
@@ -785,8 +785,8 @@
                   },
                   {
                       "path":  "system/e/DethroneShop.dat",
-                      "size":  304,
-                      "sha256":  "6dcb5469cb12125efbdeac2d2d66bff8e5356549a8e6ea2f6b1d519f1b43b4dd",
+                      "size":  816,
+                      "sha256":  "840942b354c3199db1fb329fa903cb1bbd43e4fa9cff65df240bc6224f96f508",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/DethroneShop.dat"
                   },
                   {
@@ -3101,8 +3101,8 @@
                   },
                   {
                       "path":  "system/Interface.u",
-                      "size":  6898364,
-                      "sha256":  "e1541e5b4512f1c2cf9214cbdfa94de70f958e75d76aa3b045a8f0899fb5711c",
+                      "size":  7648229,
+                      "sha256":  "10ce9cfc3c981bdb86b753b0a2ace86a0811324214dc6652c0827b3added1571",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/Interface.u"
                   },
                   {
@@ -4145,8 +4145,8 @@
                   },
                   {
                       "path":  "system/ru/DethroneShop.dat",
-                      "size":  304,
-                      "sha256":  "6dcb5469cb12125efbdeac2d2d66bff8e5356549a8e6ea2f6b1d519f1b43b4dd",
+                      "size":  816,
+                      "sha256":  "840942b354c3199db1fb329fa903cb1bbd43e4fa9cff65df240bc6224f96f508",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/DethroneShop.dat"
                   },
                   {
