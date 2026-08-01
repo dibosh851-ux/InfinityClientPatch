@@ -1,8 +1,26 @@
 {
-    "version":  "patch-2026.08.01.2229",
-    "generatedAt":  "2026-08-01T22:29:14",
+    "version":  "patch-2026.08.02.0006",
+    "generatedAt":  "2026-08-02T00:06:48",
     "root":  "files",
     "files":  [
+                  {
+                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.u.backup-20260801-233220",
+                      "size":  7648229,
+                      "sha256":  "10ce9cfc3c981bdb86b753b0a2ace86a0811324214dc6652c0827b3added1571",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.u.backup-20260801-233220"
+                  },
+                  {
+                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.u.bad-serialization-20260801-2345",
+                      "size":  7648229,
+                      "sha256":  "16cd3923b8099e05ab940b8beffd5a2b7f224e1aaa31824d5462f26eb6d60b84",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.u.bad-serialization-20260801-2345"
+                  },
+                  {
+                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.xdat.backup-20260801-233656",
+                      "size":  6652206,
+                      "sha256":  "96f7828e08a77eed04cb183b04a8596e10d83a6f6efa57f26c872921b9a91375",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.xdat.backup-20260801-233656"
+                  },
                   {
                       "path":  "system/aegisty.bin",
                       "size":  4832880,
@@ -785,8 +803,8 @@
                   },
                   {
                       "path":  "system/e/DethroneShop.dat",
-                      "size":  816,
-                      "sha256":  "840942b354c3199db1fb329fa903cb1bbd43e4fa9cff65df240bc6224f96f508",
+                      "size":  944,
+                      "sha256":  "877e4e32524ca401ce1fd993fcd1de318fb078096f22a8f67f7328b1e73a8617",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/DethroneShop.dat"
                   },
                   {
@@ -1098,7 +1116,7 @@
                   {
                       "path":  "system/e/EtcItemgrp.dat",
                       "size":  183088,
-                      "sha256":  "ceb1fbd06b5df43b5632a22131b11c4fe601c69c8ec3b0845a7177491b9e6150",
+                      "sha256":  "cdc2f093f0d1872a7e7a7130c4b88cc801184ca2d850844619f88912c533cd1a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/EtcItemgrp.dat"
                   },
                   {
@@ -3102,13 +3120,13 @@
                   {
                       "path":  "system/Interface.u",
                       "size":  7648229,
-                      "sha256":  "10ce9cfc3c981bdb86b753b0a2ace86a0811324214dc6652c0827b3added1571",
+                      "sha256":  "1d5504ba7c4533e565989739df3aa1eaa464c9966f539b48d8e890e839a78e61",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/Interface.u"
                   },
                   {
                       "path":  "system/Interface.xdat",
                       "size":  6652206,
-                      "sha256":  "96f7828e08a77eed04cb183b04a8596e10d83a6f6efa57f26c872921b9a91375",
+                      "sha256":  "10bffaf38e9403d1943b0acaaabc2908615244e2d33fc100467c43b5b980ad7a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/Interface.xdat"
                   },
                   {
@@ -4145,8 +4163,8 @@
                   },
                   {
                       "path":  "system/ru/DethroneShop.dat",
-                      "size":  816,
-                      "sha256":  "840942b354c3199db1fb329fa903cb1bbd43e4fa9cff65df240bc6224f96f508",
+                      "size":  944,
+                      "sha256":  "877e4e32524ca401ce1fd993fcd1de318fb078096f22a8f67f7328b1e73a8617",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/DethroneShop.dat"
                   },
                   {
@@ -4458,7 +4476,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183088,
-                      "sha256":  "c31a325a16edc8f1f3771362f636954a7a57a51380fe148e7e77321162c295c5",
+                      "sha256":  "e2605bb58972a73a973e9486cf42181a3a33bd64290552f0e810a14aad7ded0f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4836,7 +4854,7 @@
                   {
                       "path":  "system/ru/ItemName-ru.dat",
                       "size":  1387312,
-                      "sha256":  "daee2b70e705201b5364bfced5ceef04eab0e026ce70246e4cc373bec2a25f0c",
+                      "sha256":  "3474171ada99a3e262e4fafdc3ec1f4bbbbec98d48c9c155d13c6c8f5ae8c5ab",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
@@ -4878,7 +4896,7 @@
                   {
                       "path":  "system/ru/L2GameDataName.dat",
                       "size":  958256,
-                      "sha256":  "1e7037444713ac9493bdedba42e09e6e33c997f3412e8b79655fb111fec05907",
+                      "sha256":  "5fd184cd205da33edd5adedc5bb78de735476fe36b022c11b9b792975c669a50",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/L2GameDataName.dat"
                   },
                   {
@@ -5904,7 +5922,7 @@
                   {
                       "path":  "system/ru/SkillName-ru.dat",
                       "size":  2022192,
-                      "sha256":  "e9aff07ecb8b40de51d3c3cc93926db92ef771e094ac637fe4cf29089e161381",
+                      "sha256":  "4234628eec270f5dd5da96ca5535bb8c8dbf89c638c66f228944244390e7da7c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
