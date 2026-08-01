@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.01.2217",
-    "generatedAt":  "2026-08-01T22:17:59",
+    "version":  "patch-2026.08.01.2227",
+    "generatedAt":  "2026-08-01T22:27:49",
     "root":  "files",
     "files":  [
                   {
@@ -242,54 +242,6 @@
                       "size":  11776,
                       "sha256":  "642820563bfe7c16e9a215a03b45b9b42365c2ee751167c6b2b1257e62c11895",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/DSETUP.dll"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/EtcItemgrp.dat/20260801-200503-493.dat",
-                      "size":  183088,
-                      "sha256":  "a5e0e8eb77d444d33fefa0436f41165e62dc2ae8a6c277ac4d70682774ff2ae2",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/EtcItemgrp.dat/20260801-200503-493.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/ItemName-e.dat/20260801-195550-544.dat",
-                      "size":  1201072,
-                      "sha256":  "ee7e1accae9d7c7d2643e981aaef876bada03d481b3f64a74a2e31e483fb58b4",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/ItemName-e.dat/20260801-195550-544.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/ItemName-e.dat/20260801-200000-137.dat",
-                      "size":  1201072,
-                      "sha256":  "7410008a025949d2945ce03f00c995e33657f3e353b2c4a1ef53c772b4ae6e98",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/ItemName-e.dat/20260801-200000-137.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/L2GameDataName.dat/20260801-195550-546.dat",
-                      "size":  733744,
-                      "sha256":  "e43e3069299d2cad6320d9781689367880a2e1d83e1aa87b4166a25803cc6459",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/L2GameDataName.dat/20260801-195550-546.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/L2GameDataName.dat/20260801-200503-495.dat",
-                      "size":  733744,
-                      "sha256":  "81a5e357c6d7d5988740597271445b736760026db2f260d8ee1b41258818c9ac",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/L2GameDataName.dat/20260801-200503-495.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/Skillgrp.dat/20260801-204047-893.dat",
-                      "size":  974000,
-                      "sha256":  "a3b5ba647623ab351cd8d07733868d78e405301bb8613501eb45256572ba7543",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/Skillgrp.dat/20260801-204047-893.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/SkillName-e.dat/20260801-201502-066.dat",
-                      "size":  766768,
-                      "sha256":  "5f12ee68e23ecc893c67226a91c993ae7ea92a2f91d71b024fc52004b48d1ec9",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/SkillName-e.dat/20260801-201502-066.dat"
-                  },
-                  {
-                      "path":  "system/e/.l2clientdat-backups/SkillName-e.dat/20260801-202301-797.dat",
-                      "size":  767408,
-                      "sha256":  "f87ff00e0ce216adc5c19688e47c758c103d769df5832f18666ac4910d1500fc",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/.l2clientdat-backups/SkillName-e.dat/20260801-202301-797.dat"
                   },
                   {
                       "path":  "system/e/AbnormalAgathion.dat",
@@ -3650,60 +3602,6 @@
                       "size":  6976611,
                       "sha256":  "2a43bf81a0a8fc58d8b2f01160aaff9156a58a50e48e27c10a95b16b44056a04",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/resources.pak"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/EtcItemgrp.dat/20260801-200927-739.dat",
-                      "size":  183088,
-                      "sha256":  "425e01140bc21c6a23ea5b05f2d2173ed761425e1a1597d876b1322a4d228ffe",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/EtcItemgrp.dat/20260801-200927-739.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-191915-953.dat",
-                      "size":  1387440,
-                      "sha256":  "89b620ff066a5f81ab9964e4517d5d36a5f49a9617833ef92ab555ab9948ed36",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-191915-953.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-194338-867.dat",
-                      "size":  1387440,
-                      "sha256":  "58d1215f9e6790b4efae9bdf8df6ab18a962fe668b54259d6ddd96e46d47f0f3",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-194338-867.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-195151-083.dat",
-                      "size":  1387568,
-                      "sha256":  "3b6b5a51bf3e22254034d5b0219bfb00e5811bc9f8125c6922cc66dcb1a02ac6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/ItemName-ru.dat/20260801-195151-083.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/L2GameDataName.dat/20260801-191915-959.dat",
-                      "size":  958128,
-                      "sha256":  "4e5112f966e7cd3d73252ab601ae28d63507c71ef1930da7ac53ff2d8fadfd81",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/L2GameDataName.dat/20260801-191915-959.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/L2GameDataName.dat/20260801-195151-085.dat",
-                      "size":  958128,
-                      "sha256":  "e360fad244f5e30f40056f8beadc33465627c888b323ef77de2b17ee6c7c2c58",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/L2GameDataName.dat/20260801-195151-085.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/Skillgrp.dat/20260801-204155-813.dat",
-                      "size":  974000,
-                      "sha256":  "38e355b21c38c79b1e1c9d0d5bfbf6d2538a2ee1a3902b06984f2a899e15118b",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/Skillgrp.dat/20260801-204155-813.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/SkillName-ru.dat/20260801-201351-719.dat",
-                      "size":  2021040,
-                      "sha256":  "6c64565d6c36e8d29bd25949da2d32a21277b3f00fc923375bdaa1f4183a4cdb",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/SkillName-ru.dat/20260801-201351-719.dat"
-                  },
-                  {
-                      "path":  "system/ru/.l2clientdat-backups/SkillName-ru.dat/20260801-202444-885.dat",
-                      "size":  2021808,
-                      "sha256":  "a78cafa7ef1749ea6158b21c164e13badeffc170d38f204ccd34a37e1d92599b",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/.l2clientdat-backups/SkillName-ru.dat/20260801-202444-885.dat"
                   },
                   {
                       "path":  "system/ru/AbnormalAgathion.dat",
