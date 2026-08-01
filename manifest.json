@@ -1,26 +1,8 @@
 {
-    "version":  "patch-2026.08.02.0006",
-    "generatedAt":  "2026-08-02T00:06:48",
+    "version":  "patch-2026.08.02.0010",
+    "generatedAt":  "2026-08-02T00:10:10",
     "root":  "files",
     "files":  [
-                  {
-                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.u.backup-20260801-233220",
-                      "size":  7648229,
-                      "sha256":  "10ce9cfc3c981bdb86b753b0a2ace86a0811324214dc6652c0827b3added1571",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.u.backup-20260801-233220"
-                  },
-                  {
-                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.u.bad-serialization-20260801-2345",
-                      "size":  7648229,
-                      "sha256":  "16cd3923b8099e05ab940b8beffd5a2b7f224e1aaa31824d5462f26eb6d60b84",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.u.bad-serialization-20260801-2345"
-                  },
-                  {
-                      "path":  "system/.l2clientdat-backups/manual-interface/Interface.xdat.backup-20260801-233656",
-                      "size":  6652206,
-                      "sha256":  "96f7828e08a77eed04cb183b04a8596e10d83a6f6efa57f26c872921b9a91375",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/.l2clientdat-backups/manual-interface/Interface.xdat.backup-20260801-233656"
-                  },
                   {
                       "path":  "system/aegisty.bin",
                       "size":  4832880,
