@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.05.1058",
-    "generatedAt":  "2026-08-05T10:58:40",
+    "version":  "patch-2026.08.05.1300",
+    "generatedAt":  "2026-08-05T13:00:05",
     "root":  "files",
     "files":  [
                   {
@@ -6042,7 +6042,7 @@
                   {
                       "path":  "system/ru/SystemMsg-ru.dat",
                       "size":  221360,
-                      "sha256":  "0f02af68a81e1d1bfe610a8a2d09dd29c6f63faaf24bd693dc620b34d62680ff",
+                      "sha256":  "50b047c0f9579a787492467189eb02a9016d784afa699eb8a59ff4ea544aa56a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SystemMsg-ru.dat"
                   },
                   {
