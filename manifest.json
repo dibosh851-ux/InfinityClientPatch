@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.14.2303",
-    "generatedAt":  "2026-08-14T23:03:24",
+    "version":  "patch-2026.08.14.2308",
+    "generatedAt":  "2026-08-14T23:08:51",
     "root":  "files",
     "files":  [
                   {
@@ -5256,7 +5256,7 @@
                   {
                       "path":  "system/ru/Npcgrp.dat",
                       "size":  330032,
-                      "sha256":  "e83971869a6f532304d89797f8aceec9123232d0fe7cc9d73ebd8824a505d857",
+                      "sha256":  "ca2a918d9bf433b9a2a8edb498d17df29e0f1a83692c49e7a868bb10c267c304",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Npcgrp.dat"
                   },
                   {
