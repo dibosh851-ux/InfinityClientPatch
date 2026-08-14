@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.14.2146",
-    "generatedAt":  "2026-08-14T21:46:16",
+    "version":  "patch-2026.08.14.2237",
+    "generatedAt":  "2026-08-14T22:37:04",
     "root":  "files",
     "files":  [
                   {
@@ -140,12 +140,6 @@
                       "size":  622967,
                       "sha256":  "d8ceb99376688ab15eb4a9142750f9753d9f01df642dd17829bbb6edb261cfc9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/cef_200_percent.pak"
-                  },
-                  {
-                      "path":  "system/chatfilter.ini",
-                      "size":  3121,
-                      "sha256":  "76c0e47708efe2e48dc0ad60b569019eeb5647e05f5fea8e33eec78f56146bbd",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/chatfilter.ini"
                   },
                   {
                       "path":  "system/chrome_100_percent.pak",
@@ -3136,12 +3130,6 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/L2.exe"
                   },
                   {
-                      "path":  "system/L2.ini",
-                      "size":  5296,
-                      "sha256":  "a6ec1b522abd504a350499f168794312f70006431920941d1f63660ec9245f4d",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/L2.ini"
-                  },
-                  {
                       "path":  "system/l2.int",
                       "size":  143,
                       "sha256":  "0bdd555b41bd5c486db292abb945908115114ef2e407464a9c34bdac990c693f",
@@ -3248,12 +3236,6 @@
                       "size":  5855232,
                       "sha256":  "1eeedec4ae71a6d019ec74a6dad8089ef886399b0092a47991ba8fc97f0862f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/libGLESv2.dll"
-                  },
-                  {
-                      "path":  "system/Lineage2JP.ini",
-                      "size":  1147,
-                      "sha256":  "6fad961d7dc218feffcf78673ccb92b4979c31eade285ec79bde809b9dbf40c6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/Lineage2JP.ini"
                   },
                   {
                       "path":  "system/Lineage2MultilangFont.ttf",
@@ -6464,12 +6446,6 @@
                       "size":  5580,
                       "sha256":  "375c3d59983378b58992fa6ac2f38a1a3182d2b67452a09ab87cb24009821610",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/TimeEnv7.int"
-                  },
-                  {
-                      "path":  "system/TTFontInfo.ini",
-                      "size":  775,
-                      "sha256":  "f9d8bc7b9d93897f4b60bc929af28f77ed4f0a04f519a73069d476461afd8cb4",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/TTFontInfo.ini"
                   },
                   {
                       "path":  "system/UDebugMenu.u",
