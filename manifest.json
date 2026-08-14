@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.14.1249",
-    "generatedAt":  "2026-08-14T12:49:20",
+    "version":  "patch-2026.08.14.2019",
+    "generatedAt":  "2026-08-14T20:19:57",
     "root":  "files",
     "files":  [
                   {
@@ -1913,8 +1913,8 @@
                   },
                   {
                       "path":  "system/e/Npcgrp.dat",
-                      "size":  330032,
-                      "sha256":  "7326f0569589f007b3b3b78d6d15ea18908530dbb0f16803bd88349a4a16e49a",
+                      "size":  329904,
+                      "sha256":  "8c930f2a43b43cab75605fb7b48f8ee79c6e22bdb089a9b711808822e7cca47b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/Npcgrp.dat"
                   },
                   {
@@ -5274,7 +5274,7 @@
                   {
                       "path":  "system/ru/Npcgrp.dat",
                       "size":  330032,
-                      "sha256":  "1dbf05e7fa6dc41eaec2efbe9f3bc50df61099a196556e77416e2d1b34badebd",
+                      "sha256":  "5282dba6d4a290cae99287e98bb95020c60d697eb79c2cac06b34c3fe55697a7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Npcgrp.dat"
                   },
                   {
@@ -5303,8 +5303,8 @@
                   },
                   {
                       "path":  "system/ru/NpcName-ru.dat",
-                      "size":  144048,
-                      "sha256":  "316fec5edc9888da8346467e2700315c3705bd6f6511f204726938371c42b08d",
+                      "size":  143920,
+                      "sha256":  "a8ef3b49477b09921f8633cc079c9a45812c01663ef13ddc49532842f997a7b3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/NpcName-ru.dat"
                   },
                   {
@@ -6326,6 +6326,12 @@
                       "size":  11184,
                       "sha256":  "4973eeb935b18efb13436cb4eb817b4ef347609f5030aae3073e82f022b638f2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ZoneName-ru.dat"
+                  },
+                  {
+                      "path":  "system/ru/Новая папка/L2GameDataName.dat",
+                      "size":  958384,
+                      "sha256":  "e5452e22197495fb5149f5f52b1c0bcd90ad2a41c672df0729195400e7e6a90f",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Новая папка/L2GameDataName.dat"
                   },
                   {
                       "path":  "system/SmallFont.gly",
