@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.17.2321",
-    "generatedAt":  "2026-08-17T23:21:29",
+    "version":  "patch-2026.08.19.0102",
+    "generatedAt":  "2026-08-19T01:03:00",
     "root":  "files",
     "files":  [
                   {
@@ -1092,7 +1092,7 @@
                   {
                       "path":  "system/e/EtcItemgrp.dat",
                       "size":  183344,
-                      "sha256":  "9e2cf750cdfba339c51ee71f0cf7249200aa128711cad8e9d1dda96d91bc38da",
+                      "sha256":  "21415647a57ad4cf75a8ff81de43cb608aeebdd35d175a7bfec71fbdae033660",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/EtcItemgrp.dat"
                   },
                   {
@@ -1469,8 +1469,8 @@
                   },
                   {
                       "path":  "system/e/ItemName-e.dat",
-                      "size":  1202480,
-                      "sha256":  "4c73249bde25ca4fb8d00dd20113939164a3285d29cb4822f6e3efe469868fc4",
+                      "size":  1202608,
+                      "sha256":  "f70fca3ced9d75f101ca497632fd348e3d62a93870dedb2af0f048b9b3932f0f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/ItemName-e.dat"
                   },
                   {
@@ -1512,7 +1512,7 @@
                   {
                       "path":  "system/e/L2GameDataName.dat",
                       "size":  734128,
-                      "sha256":  "dfd68e05734bfc9c477c40b96c64e5a790a5d78a9e6ad3b21fac01875f0c7bd4",
+                      "sha256":  "a8065fe194679093d2c73683c2a4a0170151c703fd27ae85e75f31af8386e928",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/L2GameDataName.dat"
                   },
                   {
@@ -4440,7 +4440,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183344,
-                      "sha256":  "58665b76866cba1cead8f497a9ea03833c146123be9c8886494ab8f5a6eccbd1",
+                      "sha256":  "39db2d7d87a1956971f1363970a4630d6854a94683a7792f8a0ad3d871cfbf6d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4817,8 +4817,8 @@
                   },
                   {
                       "path":  "system/ru/ItemName-ru.dat",
-                      "size":  1389104,
-                      "sha256":  "0967ca476c4fb797685fe6d4383cd22e393dc89684e3c9825644597093ff885e",
+                      "size":  1389232,
+                      "sha256":  "1445206146ccf42d5434d0052ad77c80a2a5606b610b7c017e779fde8140495b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
@@ -4860,7 +4860,7 @@
                   {
                       "path":  "system/ru/L2GameDataName.dat",
                       "size":  958384,
-                      "sha256":  "0ce57867e1de833a1268766fdb67e9d8e918cea5db724519b22dd22e4d66b838",
+                      "sha256":  "db19ecb600a1bba20b47e6794e3dcadec399ddb5ba30bbeb644e87f3974f9ab3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/L2GameDataName.dat"
                   },
                   {
