@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.23.2034",
-    "generatedAt":  "2026-08-23T20:34:09",
+    "version":  "patch-2026.08.24.0019",
+    "generatedAt":  "2026-08-24T00:19:08",
     "root":  "files",
     "files":  [
                   {
@@ -4440,7 +4440,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183344,
-                      "sha256":  "39db2d7d87a1956971f1363970a4630d6854a94683a7792f8a0ad3d871cfbf6d",
+                      "sha256":  "20c382fc7ba7c9ffccc5fa797763a87341d40b196de2365f2b30629b2fefd3c9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4800,7 +4800,7 @@
                   {
                       "path":  "system/ru/ItemMultisell-ru.dat",
                       "size":  1712,
-                      "sha256":  "360634b2366b77909e99ea16d879184d75e67026d70e16ed91863c905ae1b053",
+                      "sha256":  "323c0061723d6a653a69b219dd83992d7ef5cb3b7ae58a1aaa2074ddfaf996e3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemMultisell-ru.dat"
                   },
                   {
@@ -4817,8 +4817,8 @@
                   },
                   {
                       "path":  "system/ru/ItemName-ru.dat",
-                      "size":  1572528,
-                      "sha256":  "13d8eeb333b0e2422de17e5b171823591b177ef5c8155f791cc2f73a986d22bc",
+                      "size":  1572656,
+                      "sha256":  "98dc9071c687abf3c44501f59ec2dc464ee457fe528858b8b4992ac9d13b0290",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
@@ -4859,8 +4859,8 @@
                   },
                   {
                       "path":  "system/ru/L2GameDataName.dat",
-                      "size":  958384,
-                      "sha256":  "5988d3ee428be6b2886e9af0b06d5b3794b45608f41869e8f3b0cdefecac5a9c",
+                      "size":  958512,
+                      "sha256":  "626309fcdcc84ff26f82b473455e3f45535af68ac943474dd8a283353a2c9548",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/L2GameDataName.dat"
                   },
                   {
