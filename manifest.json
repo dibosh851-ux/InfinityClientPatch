@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.27.0903",
-    "generatedAt":  "2026-08-27T09:03:45",
+    "version":  "patch-2026.08.27.2310",
+    "generatedAt":  "2026-08-27T23:10:57",
     "root":  "files",
     "files":  [
                   {
@@ -1469,8 +1469,8 @@
                   },
                   {
                       "path":  "system/e/ItemName-e.dat",
-                      "size":  1375792,
-                      "sha256":  "229013f19dc1ab40fb57e3c535b66b61e038500cd55ea3db8f73c3fd2305c61b",
+                      "size":  1378224,
+                      "sha256":  "05f683236a3ebb7774727cb658bdd9c9c97cb9c12dcddd2d52f289e6d18f6bef",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/ItemName-e.dat"
                   },
                   {
@@ -1511,8 +1511,8 @@
                   },
                   {
                       "path":  "system/e/L2GameDataName.dat",
-                      "size":  734512,
-                      "sha256":  "f35c9b3af2a9ba6f487a947406b053e2645dafa6eecb51b4f6d1951a2c77170f",
+                      "size":  742320,
+                      "sha256":  "713124c77aaa943fd0382b89bb60636129af252623c5758eb73103308d28bea4",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/L2GameDataName.dat"
                   },
                   {
@@ -2537,8 +2537,8 @@
                   },
                   {
                       "path":  "system/e/SkillName-e.dat",
-                      "size":  1861936,
-                      "sha256":  "5499ffafb09661c358859e79276ad86b680bee5c420a9c7b61c004038e8fd4f1",
+                      "size":  1863344,
+                      "sha256":  "59adce4edc9a81c322de258c1af970326970bd411d166707cd9b9a40d82c301c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/SkillName-e.dat"
                   },
                   {
@@ -4817,8 +4817,8 @@
                   },
                   {
                       "path":  "system/ru/ItemName-ru.dat",
-                      "size":  1576752,
-                      "sha256":  "023b723b6dbddef846bf7f3936cdd2469d0f98646130f58d2030c7696e0bee8f",
+                      "size":  1580336,
+                      "sha256":  "ac3259abaa664d2c34fb1a3b531e13b5dfbe87888347da24ee808c8b170bd894",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
@@ -5885,8 +5885,8 @@
                   },
                   {
                       "path":  "system/ru/SkillName-ru.dat",
-                      "size":  2268464,
-                      "sha256":  "d81e9e603c78bde1974fb79d84e8df858b47714cae18cca61086b4ab2bdccd60",
+                      "size":  2271664,
+                      "sha256":  "599f7665e7f9dfdcd611cf957d81ae9118767acaa5f5060cf5a5d562c8eb9436",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
