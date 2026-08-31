@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.08.31.2159",
-    "generatedAt":  "2026-08-31T21:59:30",
+    "version":  "patch-2026.09.01.0036",
+    "generatedAt":  "2026-09-01T00:36:13",
     "root":  "files",
     "files":  [
                   {
@@ -3083,8 +3083,8 @@
                   },
                   {
                       "path":  "system/infinity/Fraction.utx",
-                      "size":  33555738,
-                      "sha256":  "f5e01f142ea6bdd798b1a19073dcbb320ea1d836be79f37e0f5152cfc837f346",
+                      "size":  33555827,
+                      "sha256":  "c216ac2f9685960e88e51358372e07698b5389d90ffabec3c6e0aae5204b3b35",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/infinity/Fraction.utx"
                   },
                   {
@@ -3095,8 +3095,8 @@
                   },
                   {
                       "path":  "system/infinity/Infinity.utx",
-                      "size":  51186675,
-                      "sha256":  "22625c784b6b608b6b7a61192d123df1877f8c0219e1220a035768f961b8aa36",
+                      "size":  34408941,
+                      "sha256":  "d9dc071a6983693c821e0a9fd6c191151814b67600c291a1f14c93918cebb770",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/infinity/Infinity.utx"
                   },
                   {
