@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.03.1038",
-    "generatedAt":  "2026-09-03T10:38:40",
+    "version":  "patch-2026.09.03.1042",
+    "generatedAt":  "2026-09-03T10:42:36",
     "root":  "files",
     "files":  [
                   {
@@ -5891,8 +5891,8 @@
                   },
                   {
                       "path":  "system/ru/SkillName-ru.dat",
-                      "size":  2271792,
-                      "sha256":  "98d64df2996422ef6f148d3ec853039448110f27f893349a24c29a58ecd773cb",
+                      "size":  2271920,
+                      "sha256":  "6f40322e86b0520cf82c071548f22070920799fec21bbd0b565d45c55bb5ad87",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
