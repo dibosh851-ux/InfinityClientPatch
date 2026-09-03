@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.03.1042",
-    "generatedAt":  "2026-09-03T10:42:36",
+    "version":  "patch-2026.09.03.1220",
+    "generatedAt":  "2026-09-03T12:20:53",
     "root":  "files",
     "files":  [
                   {
@@ -4824,7 +4824,7 @@
                   {
                       "path":  "system/ru/ItemName-ru.dat",
                       "size":  1580464,
-                      "sha256":  "deb828e8323b8638a85bfadacb3e78bc5d63459d33ffd37acf00e6ce9429ac3d",
+                      "sha256":  "4fe4f54813fcda8954c212d96259cc3c5859bc4a27f8c8ba9150027b971d889d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
