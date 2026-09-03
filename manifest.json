@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.03.2057",
-    "generatedAt":  "2026-09-03T20:57:37",
+    "version":  "patch-2026.09.03.2141",
+    "generatedAt":  "2026-09-03T21:41:26",
     "root":  "files",
     "files":  [
                   {
@@ -659,8 +659,8 @@
                   },
                   {
                       "path":  "system/e/CombinationItemData.dat",
-                      "size":  32304,
-                      "sha256":  "27d9c601ca68d307fbfff1a7ff268972b31ea4c7b957aaf266a57c944720bbfd",
+                      "size":  32432,
+                      "sha256":  "38f92c02b22cc5d92e9d693175e35c29009742fbac70be7647996db76502294f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/CombinationItemData.dat"
                   },
                   {
@@ -4013,8 +4013,8 @@
                   },
                   {
                       "path":  "system/ru/CombinationItemData.dat",
-                      "size":  32304,
-                      "sha256":  "27d9c601ca68d307fbfff1a7ff268972b31ea4c7b957aaf266a57c944720bbfd",
+                      "size":  32432,
+                      "sha256":  "38f92c02b22cc5d92e9d693175e35c29009742fbac70be7647996db76502294f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/CombinationItemData.dat"
                   },
                   {
