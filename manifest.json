@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.04.1714",
-    "generatedAt":  "2026-09-04T17:14:45",
+    "version":  "patch-2026.09.04.2058",
+    "generatedAt":  "2026-09-04T20:58:28",
     "root":  "files",
     "files":  [
                   {
@@ -4949,8 +4949,8 @@
                   },
                   {
                       "path":  "system/ru/LCoinShopProduct-ru.dat",
-                      "size":  560,
-                      "sha256":  "b4190735b886b8fd5468a516f55af5f8bf23dc2aa1d20a79050a3246b511881b",
+                      "size":  688,
+                      "sha256":  "b1fb28f97b32c699b23845218f96fa6c5b160f75f4e8be1aec41175d76d69296",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/LCoinShopProduct-ru.dat"
                   },
                   {
@@ -5892,7 +5892,7 @@
                   {
                       "path":  "system/ru/SkillName-ru.dat",
                       "size":  2271920,
-                      "sha256":  "6f40322e86b0520cf82c071548f22070920799fec21bbd0b565d45c55bb5ad87",
+                      "sha256":  "3094610e07cdab0843757f99dd2208165b3fe0bfc38c9cbe774b03110852988f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
