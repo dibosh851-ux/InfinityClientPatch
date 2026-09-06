@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.06.0929",
-    "generatedAt":  "2026-09-06T09:29:30",
+    "version":  "patch-2026.09.06.1034",
+    "generatedAt":  "2026-09-06T10:34:06",
     "root":  "files",
     "files":  [
                   {
@@ -2508,7 +2508,7 @@
                   {
                       "path":  "system/e/Skillgrp.dat",
                       "size":  975280,
-                      "sha256":  "5b4ae4ea0b26b03570e82c33967dacc5cfb41fbe08dfb1d70cc2a046d7647534",
+                      "sha256":  "5bf2d28fe7cc97f70e6105e370b6bc0f723ed3ca5b221408c017f7d7565be6d0",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/Skillgrp.dat"
                   },
                   {
@@ -2538,7 +2538,7 @@
                   {
                       "path":  "system/e/SkillName-e.dat",
                       "size":  1863472,
-                      "sha256":  "f39eda1cdd55ec8b308fec3d29499f8bca11084c17ae7d877af82e6f6a2c0b36",
+                      "sha256":  "df2ce0b8bc137d27b9a3b861d2d84fbdae6efdccb709cab21dd34ee2db1ec48a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/SkillName-e.dat"
                   },
                   {
@@ -5862,7 +5862,7 @@
                   {
                       "path":  "system/ru/Skillgrp.dat",
                       "size":  975280,
-                      "sha256":  "3cad51dd7e27aa7bfcaa375b730f2d173e2de4ccd0a761fc151f4561293ea3ef",
+                      "sha256":  "cf8c54fbfb2864d858b705abdb9e55c6e147b8bf0023bad5487a12ec32295efb",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Skillgrp.dat"
                   },
                   {
@@ -5892,7 +5892,7 @@
                   {
                       "path":  "system/ru/SkillName-ru.dat",
                       "size":  2272176,
-                      "sha256":  "24c2bc899bb1977f5fb2d3fa6f18cc71636fbd0320f6cb04f5c4132a85a35ce7",
+                      "sha256":  "903ced08d685c4c3a5a02bad2eae1e2052c41c5bd071d9f7b8cf10b36e30f319",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
