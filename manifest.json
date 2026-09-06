@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.06.1034",
-    "generatedAt":  "2026-09-06T10:34:06",
+    "version":  "patch-2026.09.06.1122",
+    "generatedAt":  "2026-09-06T11:22:40",
     "root":  "files",
     "files":  [
                   {
@@ -1092,7 +1092,7 @@
                   {
                       "path":  "system/e/EtcItemgrp.dat",
                       "size":  183728,
-                      "sha256":  "b128b36cdbc98c3c46cf1cf479eb707ae75493f6aa35cfd95522a64e3a3f7102",
+                      "sha256":  "344c98fc869093ed4a3cabf3c901b34f2528e83402fc0593257520e877561743",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/EtcItemgrp.dat"
                   },
                   {
@@ -1470,7 +1470,7 @@
                   {
                       "path":  "system/e/ItemName-e.dat",
                       "size":  1379120,
-                      "sha256":  "6179f1112f05541a3dd2d51e8c0f947b1d5506579938ee30dc1b11e90476eadf",
+                      "sha256":  "fd021a1dd37c18effc420b82976cf8775c4f080788688ccd7ef20de7355fff66",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/ItemName-e.dat"
                   },
                   {
@@ -4446,7 +4446,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183728,
-                      "sha256":  "ca1ccb1afe663892c1eeba43f556ee01fa645b8e76f21bc6f93250c52fe72ecb",
+                      "sha256":  "a3ba1b97bdcc19900d0737549443ed19e937afe5c0bd4ce3e9f99ca8f647734f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4824,7 +4824,7 @@
                   {
                       "path":  "system/ru/ItemName-ru.dat",
                       "size":  1581488,
-                      "sha256":  "be368fca693f20d0e6a7eacc171b7e26e0c76687f7a41286c0dd6fe92db23a48",
+                      "sha256":  "1f69135afa0eb1eb0834fe3b8825138de58f3193b558c961b6264ad05c78d16e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
