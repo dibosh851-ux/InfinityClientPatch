@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.08.1327",
-    "generatedAt":  "2026-09-08T13:27:34",
+    "version":  "patch-2026.09.08.1428",
+    "generatedAt":  "2026-09-08T14:28:07",
     "root":  "files",
     "files":  [
                   {
@@ -4950,7 +4950,7 @@
                   {
                       "path":  "system/ru/LCoinShopProduct-ru.dat",
                       "size":  944,
-                      "sha256":  "71afd1712f41d3a83b2e2fd0ed0efa29827ac7d64b4c7acab89213709860eea0",
+                      "sha256":  "3be52d1281e108ff5dd453d064d56a35251dfe92b1934b28785564025b10569f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/LCoinShopProduct-ru.dat"
                   },
                   {
