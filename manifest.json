@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.09.1149",
-    "generatedAt":  "2026-09-09T11:49:37",
+    "version":  "patch-2026.09.09.1830",
+    "generatedAt":  "2026-09-09T18:30:25",
     "root":  "files",
     "files":  [
                   {
@@ -5862,7 +5862,7 @@
                   {
                       "path":  "system/ru/Skillgrp.dat",
                       "size":  975280,
-                      "sha256":  "573c8f0c924a8d384b0d28d8d5002da6e29274187bfed8f7550fc1a0353fdbfd",
+                      "sha256":  "11d61219a03fa2427c8c99448c90b7cecf5623e026833ef15e8473ce7b645bf6",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Skillgrp.dat"
                   },
                   {
