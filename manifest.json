@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.09.2035",
-    "generatedAt":  "2026-09-09T20:35:43",
+    "version":  "patch-2026.09.10.0146",
+    "generatedAt":  "2026-09-10T01:46:30",
     "root":  "files",
     "files":  [
                   {
@@ -1091,8 +1091,8 @@
                   },
                   {
                       "path":  "system/e/EtcItemgrp.dat",
-                      "size":  183856,
-                      "sha256":  "8dfbd91eb5c283e4721309931da53b72a655e7d21dea060a9cfd6e8151ab4574",
+                      "size":  183728,
+                      "sha256":  "7448fbaffd42d4f3943d69990a5573563d6a761b682a0fff488d51d44758ffd9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/EtcItemgrp.dat"
                   },
                   {
@@ -1469,8 +1469,8 @@
                   },
                   {
                       "path":  "system/e/ItemName-e.dat",
-                      "size":  1379632,
-                      "sha256":  "e1af5fa64d3d14909d636c6e928a93a8b200f4b1bf22badd2f6b0e1441e309f0",
+                      "size":  1379760,
+                      "sha256":  "67ce6abf90bcfceacf025b75796823b944d8fee02e9a277ec35650d839e888ee",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/ItemName-e.dat"
                   },
                   {
@@ -2508,7 +2508,7 @@
                   {
                       "path":  "system/e/Skillgrp.dat",
                       "size":  975408,
-                      "sha256":  "5bed554058f241be6a80968e26d7032bfebf28b3b7e1ac1e55ed981cfc93972f",
+                      "sha256":  "c39fbbf2ab03ea22c42d385a68bb6493c65123841f7d628974d765447e1b492c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/Skillgrp.dat"
                   },
                   {
@@ -2538,7 +2538,7 @@
                   {
                       "path":  "system/e/SkillName-e.dat",
                       "size":  1864112,
-                      "sha256":  "2616a65577451141d7d071aa599f042f3c31d776bb121e117b998b61227a6e73",
+                      "sha256":  "dcc61decafafb29e6434e6d7aef45b1121f81882b226cd12dca2754e32597ff7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/SkillName-e.dat"
                   },
                   {
@@ -3089,8 +3089,8 @@
                   },
                   {
                       "path":  "system/infinity/inf.utx",
-                      "size":  10534981,
-                      "sha256":  "b74bfe5a99494755e0204c1d1c9ea2863a2f296194b4633fa4c0ba5533e1a961",
+                      "size":  14729406,
+                      "sha256":  "bde78e9fa396943476b5f5fe96d310022eabeff63e6b1d1fa9ee95269e74a7cf",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/infinity/inf.utx"
                   },
                   {
@@ -4446,7 +4446,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183856,
-                      "sha256":  "5b1c89e73530b9875a545bfc0af0fbd71b42f60931e4c5f82b5f85a6e5c94f30",
+                      "sha256":  "b430e2385a44de1aaaa25366991f25a8003c3d42e473695ee9cb9196da2cdba2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4823,8 +4823,8 @@
                   },
                   {
                       "path":  "system/ru/ItemName-ru.dat",
-                      "size":  1582000,
-                      "sha256":  "7f2975dd0900cbf354e21327e2784185bed74769e2fa1f5b8d76ebb9a1ddff1a",
+                      "size":  1582256,
+                      "sha256":  "16579a6f99382dfce26827cbe47b23f75912ce93ace8439831d3c929dd660bd8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/ItemName-ru.dat"
                   },
                   {
@@ -5862,7 +5862,7 @@
                   {
                       "path":  "system/ru/Skillgrp.dat",
                       "size":  975280,
-                      "sha256":  "11d61219a03fa2427c8c99448c90b7cecf5623e026833ef15e8473ce7b645bf6",
+                      "sha256":  "b7df2961d4fdb05bc44c3468fe0ef308a5f266a6e4959131e28e779165fe5f72",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Skillgrp.dat"
                   },
                   {
@@ -5892,7 +5892,7 @@
                   {
                       "path":  "system/ru/SkillName-ru.dat",
                       "size":  2273456,
-                      "sha256":  "17389544b7ae6242240128adbf968a27904bed42e1c91d2800ad9dff8ad5e85f",
+                      "sha256":  "72ad48a043428ba4a405bf7c7a0f8ec05f9cdee3c281e7c5bf76464a89c74826",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/SkillName-ru.dat"
                   },
                   {
