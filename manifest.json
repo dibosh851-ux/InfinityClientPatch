@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.10.1553",
-    "generatedAt":  "2026-09-10T15:53:56",
+    "version":  "patch-2026.09.10.1613",
+    "generatedAt":  "2026-09-10T16:13:22",
     "root":  "files",
     "files":  [
                   {
@@ -3089,8 +3089,8 @@
                   },
                   {
                       "path":  "system/infinity/inf.utx",
-                      "size":  14729406,
-                      "sha256":  "d23c291085dc7eaf35bb590ea473845ae1e7684b604b09f09f0443b70b31b2bf",
+                      "size":  18923832,
+                      "sha256":  "433f376097e682285133618a6a94ddf6439c9264adecaf60e4688efb9b64bd3c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/infinity/inf.utx"
                   },
                   {
