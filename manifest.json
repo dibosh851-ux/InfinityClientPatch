@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.10.1613",
-    "generatedAt":  "2026-09-10T16:13:22",
+    "version":  "patch-2026.09.11.2034",
+    "generatedAt":  "2026-09-11T20:34:27",
     "root":  "files",
     "files":  [
                   {
@@ -1092,7 +1092,7 @@
                   {
                       "path":  "system/e/EtcItemgrp.dat",
                       "size":  183728,
-                      "sha256":  "7448fbaffd42d4f3943d69990a5573563d6a761b682a0fff488d51d44758ffd9",
+                      "sha256":  "39bb1ace457e6adebaf6876aa9edf80fd29e4bee446d273e393ef02069f368f2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/EtcItemgrp.dat"
                   },
                   {
@@ -2508,7 +2508,7 @@
                   {
                       "path":  "system/e/Skillgrp.dat",
                       "size":  975408,
-                      "sha256":  "c39fbbf2ab03ea22c42d385a68bb6493c65123841f7d628974d765447e1b492c",
+                      "sha256":  "ce561988bcbb10c8c3a0c0566d5ab3715b6272340318976b1f6299992497a08f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/Skillgrp.dat"
                   },
                   {
@@ -4446,7 +4446,7 @@
                   {
                       "path":  "system/ru/EtcItemgrp.dat",
                       "size":  183856,
-                      "sha256":  "b430e2385a44de1aaaa25366991f25a8003c3d42e473695ee9cb9196da2cdba2",
+                      "sha256":  "f790c5b76ee406835a3e9d5504dde66c70fb5a8520575635011cfcc5b8a56fa3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/EtcItemgrp.dat"
                   },
                   {
@@ -4950,7 +4950,7 @@
                   {
                       "path":  "system/ru/LCoinShopProduct-ru.dat",
                       "size":  1072,
-                      "sha256":  "05df00a4709c3d07324457d36bafd8be9d837e38683d84ef66fa43c780f90d7f",
+                      "sha256":  "7212393c650f26255449b75b75ca93a3423ebe6d11281c3a0c7be9efdcf67d84",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/LCoinShopProduct-ru.dat"
                   },
                   {
@@ -5862,7 +5862,7 @@
                   {
                       "path":  "system/ru/Skillgrp.dat",
                       "size":  975280,
-                      "sha256":  "b7df2961d4fdb05bc44c3468fe0ef308a5f266a6e4959131e28e779165fe5f72",
+                      "sha256":  "46ec0f07a5d7e848e264369b7fd186c18119333ec481f66dfb9bf2ee3ebce1a8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/Skillgrp.dat"
                   },
                   {
