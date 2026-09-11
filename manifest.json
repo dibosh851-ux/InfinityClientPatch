@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.11.2034",
-    "generatedAt":  "2026-09-11T20:34:27",
+    "version":  "patch-2026.09.11.2104",
+    "generatedAt":  "2026-09-11T21:05:00",
     "root":  "files",
     "files":  [
                   {
@@ -1806,7 +1806,7 @@
                   {
                       "path":  "system/e/MSConditionData.dat",
                       "size":  460592,
-                      "sha256":  "697d22d0b5bdf13f30b19d2b176665861329c151ba35c3b45e960279b4b837fe",
+                      "sha256":  "53f646e9e28d77c67a04ac563920e817268e70b1b5c9742eca1f75bac79af2f9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/e/MSConditionData.dat"
                   },
                   {
@@ -5160,7 +5160,7 @@
                   {
                       "path":  "system/ru/MSConditionData.dat",
                       "size":  460592,
-                      "sha256":  "697d22d0b5bdf13f30b19d2b176665861329c151ba35c3b45e960279b4b837fe",
+                      "sha256":  "53f646e9e28d77c67a04ac563920e817268e70b1b5c9742eca1f75bac79af2f9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/ru/MSConditionData.dat"
                   },
                   {
