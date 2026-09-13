@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.13.0304",
-    "generatedAt":  "2026-09-13T03:04:19",
+    "version":  "patch-2026.09.13.0950",
+    "generatedAt":  "2026-09-13T09:50:48",
     "root":  "files",
     "files":  [
                   {
@@ -3108,7 +3108,7 @@
                   {
                       "path":  "system/Interface.xdat",
                       "size":  6652206,
-                      "sha256":  "47d6be7f80fdb638ad246b71fd8f3e154d33d67f83b632ab433b6cd5a28b9c54",
+                      "sha256":  "dbe186f8f391226ca03b6354f44321153c320d02c00b70a7a0b546a5575deefc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system/Interface.xdat"
                   },
                   {
