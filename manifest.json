@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.14.1724",
-    "generatedAt":  "2026-09-14T17:24:32",
+    "version":  "patch-2026.09.14.1735",
+    "generatedAt":  "2026-09-14T17:35:11",
     "root":  "files",
     "files":  [
                   {
@@ -2297,8 +2297,8 @@
                   },
                   {
                       "path":  "system-en/e/Recipe.dat",
-                      "size":  55344,
-                      "sha256":  "3f54f3b3c630ad0f31ed003f12a4222165cdb0ec50ccf481d9730eda315ab493",
+                      "size":  55472,
+                      "sha256":  "42b394baf1091802c3172a8458823d4d9be5017fae414a503387e01b79620455",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Recipe.dat"
                   },
                   {
@@ -6785,8 +6785,8 @@
                   },
                   {
                       "path":  "system-ru/ru/Recipe.dat",
-                      "size":  55344,
-                      "sha256":  "3f54f3b3c630ad0f31ed003f12a4222165cdb0ec50ccf481d9730eda315ab493",
+                      "size":  55472,
+                      "sha256":  "42b394baf1091802c3172a8458823d4d9be5017fae414a503387e01b79620455",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Recipe.dat"
                   },
                   {
