@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.16.1850",
-    "generatedAt":  "2026-09-16T18:50:36",
+    "version":  "patch-2026.09.17.1140",
+    "generatedAt":  "2026-09-17T11:40:23",
     "root":  "files",
     "files":  [
                   {
@@ -1511,8 +1511,8 @@
                   },
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
-                      "size":  743472,
-                      "sha256":  "2d792a7346219ea6b7884b6fe185114c11faf2a2f219dc9e224db6a1a118c5fa",
+                      "size":  743600,
+                      "sha256":  "2c38a71f57df50dec044a57b5f6d50aac7890ae0ce49ec0474615f36ff8b23bd",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -2009,8 +2009,8 @@
                   },
                   {
                       "path":  "system-en/e/optiondata_client-e.dat",
-                      "size":  251824,
-                      "sha256":  "e1536b92494f93c61566d09e5ffd4b3217a86d634cf94f8fa8164094d53773a8",
+                      "size":  252592,
+                      "sha256":  "2c7181b13e4a1b632961ea81631e5db2f359fc725ad2d13acc2a80bca2dc2259",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/optiondata_client-e.dat"
                   },
                   {
@@ -2327,14 +2327,14 @@
                   },
                   {
                       "path":  "system-en/e/relics_collection-e.dat",
-                      "size":  3504,
-                      "sha256":  "91c15619540b51a864004e4a1335f427013de2f8f01df526684c8fa677c15c99",
+                      "size":  2352,
+                      "sha256":  "20311c449bca3dc3f2ef78638373a961bc6e96e1575a9259174f8fd6ba33bdee",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/relics_collection-e.dat"
                   },
                   {
                       "path":  "system-en/e/relics_main.dat",
                       "size":  1840,
-                      "sha256":  "f56d31798573aecc61ee3532e0e74bc905717b53e613871b2e3cfa372dea51ad",
+                      "sha256":  "60d9b2b0c20fc177a97b024216a40b910bf3f17aec232cb2bf7de56b9bb4b1bc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/relics_main.dat"
                   },
                   {
@@ -2507,8 +2507,8 @@
                   },
                   {
                       "path":  "system-en/e/Skillgrp.dat",
-                      "size":  975408,
-                      "sha256":  "67e108a6116d6acda99123b05f6c83e4f1edde8d5c7c2099f1ff4619bc8d771a",
+                      "size":  977072,
+                      "sha256":  "9fadb2d0ccf81f5861b93a858263162e8ce2093eb6b7f3aca8c45e4160c2711c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Skillgrp.dat"
                   },
                   {
@@ -2537,8 +2537,8 @@
                   },
                   {
                       "path":  "system-en/e/SkillName-e.dat",
-                      "size":  1864112,
-                      "sha256":  "457211b3068648c41d76dc5ad2c2498d36a81d07c4ff07447ad4a962ee1f38c0",
+                      "size":  1876656,
+                      "sha256":  "3306ec8fd283f8001cc92e0ec8085016f240ee2d52896db38f28a3e7db7fa949",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/SkillName-e.dat"
                   },
                   {
@@ -5958,7 +5958,7 @@
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
                       "size":  1582768,
-                      "sha256":  "5273c2d5740a862226640882bbfec1a128f476451d8d697e4d3d4ac2c190d215",
+                      "sha256":  "fc76a4f4b9e792a48d6263f9446b9c4fb75f43398f483d6060b18324521e978a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
@@ -5999,8 +5999,8 @@
                   },
                   {
                       "path":  "system-ru/ru/L2GameDataName.dat",
-                      "size":  959024,
-                      "sha256":  "c641f9264f61729fb8c28d981d43054bce1bb13df419ae59885d7af0761273e1",
+                      "size":  959152,
+                      "sha256":  "f60eb5943e16dbb2d2b73334f5c570bfc13379fa498d2b0768fe26e99697f0b4",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/L2GameDataName.dat"
                   },
                   {
@@ -6497,8 +6497,8 @@
                   },
                   {
                       "path":  "system-ru/ru/optiondata_client-ru.dat",
-                      "size":  281776,
-                      "sha256":  "e3899b8bd0816d9e0291ef362cd4b72eae75d6d60d7d2c8fe8ed6aa16463722b",
+                      "size":  282672,
+                      "sha256":  "dc2c7ccc9ba3533df87c1e149c98e642b09dce1c601f111f962b5a73d5b9480e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/optiondata_client-ru.dat"
                   },
                   {
@@ -6815,14 +6815,14 @@
                   },
                   {
                       "path":  "system-ru/ru/relics_collection-ru.dat",
-                      "size":  3888,
-                      "sha256":  "e1258397b6d40359d4358f2ca80207033ce306ca035938856375f10a44d651f4",
+                      "size":  2736,
+                      "sha256":  "f73cd89200697c12626133420ce9c8419bf527ea4bde133465c5421660edf5ad",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/relics_collection-ru.dat"
                   },
                   {
                       "path":  "system-ru/ru/relics_main.dat",
                       "size":  1840,
-                      "sha256":  "f56d31798573aecc61ee3532e0e74bc905717b53e613871b2e3cfa372dea51ad",
+                      "sha256":  "60d9b2b0c20fc177a97b024216a40b910bf3f17aec232cb2bf7de56b9bb4b1bc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/relics_main.dat"
                   },
                   {
@@ -6995,8 +6995,8 @@
                   },
                   {
                       "path":  "system-ru/ru/Skillgrp.dat",
-                      "size":  975408,
-                      "sha256":  "59df829a20cef7763600e360d3888c1c5af1fd4e69ddba1396be798470cbb1eb",
+                      "size":  977072,
+                      "sha256":  "cd0bc7524fbfdd31da136ba1f44300a91800a0c3a873cd96b1342091c7d0ccb2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Skillgrp.dat"
                   },
                   {
@@ -7025,8 +7025,8 @@
                   },
                   {
                       "path":  "system-ru/ru/SkillName-ru.dat",
-                      "size":  2273200,
-                      "sha256":  "8774d1782bb4d294c277747245a46c2b923f02bed12271a497c2e6fdcb053999",
+                      "size":  2279856,
+                      "sha256":  "dcc37b98ab3c530c2a418fd91a3a94f2619bf493cf4c91640f87cf41e40311b8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/SkillName-ru.dat"
                   },
                   {
