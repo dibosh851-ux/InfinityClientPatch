@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.17.2258",
-    "generatedAt":  "2026-09-17T22:58:29",
+    "version":  "patch-2026.09.18.2327",
+    "generatedAt":  "2026-09-18T23:27:50",
     "root":  "files",
     "files":  [
                   {
@@ -2538,7 +2538,7 @@
                   {
                       "path":  "system-en/e/SkillName-e.dat",
                       "size":  1876656,
-                      "sha256":  "f53b4a3e520fe32c858cf85944a4574d56451cf84cc272b90089730c8963515d",
+                      "sha256":  "0d0ed45b047e8713456551608aa3c22e42606b933e36533183a5ab374a49f8e0",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/SkillName-e.dat"
                   },
                   {
@@ -6822,7 +6822,7 @@
                   {
                       "path":  "system-ru/ru/relics_main.dat",
                       "size":  1840,
-                      "sha256":  "f0e6c397ded8f47044429843f66218c10702a87e783e2c2204c0166227fa8d5b",
+                      "sha256":  "26a6f523a0ff1a056408ee28fc77bb339ffa03dad280b47fa7821d7093804895",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/relics_main.dat"
                   },
                   {
@@ -7026,7 +7026,7 @@
                   {
                       "path":  "system-ru/ru/SkillName-ru.dat",
                       "size":  2279856,
-                      "sha256":  "12135c04f2d0e70bc998b0e08b25927252b67e8a4e8092df5d81119388442077",
+                      "sha256":  "327bdd4df1dd1d93af3caf248ed49308923c3b5cbd6b9439cd94434ab776f246",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/SkillName-ru.dat"
                   },
                   {
