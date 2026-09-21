@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.21.1328",
-    "generatedAt":  "2026-09-21T13:28:25",
+    "version":  "patch-2026.09.21.1443",
+    "generatedAt":  "2026-09-21T14:43:45",
     "root":  "files",
     "files":  [
                   {
@@ -1512,7 +1512,7 @@
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
                       "size":  744112,
-                      "sha256":  "431dd4aafcbd0a0d4fe1338a7cdecf995bab96c3c707558989cfa9ce82582e14",
+                      "sha256":  "7e97f61f7f851f9379984b1e69f6d2571dc90972403a8c8fd6c1944db44cd174",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -2909,8 +2909,8 @@
                   },
                   {
                       "path":  "system-en/e/Weapongrp.dat",
-                      "size":  230576,
-                      "sha256":  "13fdaf732c0ea3977bc8e347940f2fadcf3a68e8d31042ad4278f578614a4cf4",
+                      "size":  230704,
+                      "sha256":  "714c46b919d3fe090ab9234f397ac0e78fe94bc4ffd4be4ec5212b24753dbd30",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Weapongrp.dat"
                   },
                   {
@@ -7397,8 +7397,8 @@
                   },
                   {
                       "path":  "system-ru/ru/Weapongrp.dat",
-                      "size":  230704,
-                      "sha256":  "ae40e687b7f197366560fcaa9b7b3d45cca751559e0320b8e3ceea12114573a6",
+                      "size":  230832,
+                      "sha256":  "225b846a01eae5b9398d3519a9b72b9441c11530ee48825257b7813ab0d3da07",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Weapongrp.dat"
                   },
                   {
