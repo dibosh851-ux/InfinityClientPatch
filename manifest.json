@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.22.1244",
-    "generatedAt":  "2026-09-22T12:45:06",
+    "version":  "patch-2026.09.22.1749",
+    "generatedAt":  "2026-09-22T17:49:49",
     "root":  "files",
     "files":  [
                   {
@@ -659,8 +659,8 @@
                   },
                   {
                       "path":  "system-en/e/CombinationItemData.dat",
-                      "size":  32688,
-                      "sha256":  "4b91f31656743a662a8ed1a363f172724b437e45be01157c8c92768816579810",
+                      "size":  32816,
+                      "sha256":  "0e0ebe18f227d65c460afd7c64b74a809670e23e0e2ee7f70351f72cfcf632c1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/CombinationItemData.dat"
                   },
                   {
@@ -5147,8 +5147,8 @@
                   },
                   {
                       "path":  "system-ru/ru/CombinationItemData.dat",
-                      "size":  32688,
-                      "sha256":  "18717cd2d2b7cb293a9bc76c9424b9c28ad7890ca16c1c5b706212c3ef1868fc",
+                      "size":  32816,
+                      "sha256":  "1c2af02fec522e07b1e4b38f8ffe70523ccdea5e35e3e401f13ac99e63240c27",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/CombinationItemData.dat"
                   },
                   {
@@ -6083,8 +6083,8 @@
                   },
                   {
                       "path":  "system-ru/ru/LCoinShopProduct-ru.dat",
-                      "size":  1200,
-                      "sha256":  "bb2f9a5acbefcd98f9bd9dd1989c27d2506de02979a76494f7ec291f3bc462fc",
+                      "size":  1328,
+                      "sha256":  "a7bc00302f14b4f6d9218fbfc9824b0c3e340670b8217d8e89a4bb8ab1bd1512",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/LCoinShopProduct-ru.dat"
                   },
                   {
