@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.24.0210",
-    "generatedAt":  "2026-09-24T02:10:59",
+    "version":  "patch-2026.09.24.0235",
+    "generatedAt":  "2026-09-24T02:35:24",
     "root":  "files",
     "files":  [
                   {
@@ -1470,7 +1470,7 @@
                   {
                       "path":  "system-en/e/ItemName-e.dat",
                       "size":  1386544,
-                      "sha256":  "db5d35ab88778abc304269045a5218540ea16f26f90d6b2bc12290fb79da1f91",
+                      "sha256":  "f3523f76e9f2e5709f2e4516d2eabffeb0c741acc7ddfc9f2a62663bb3e9a1a3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/ItemName-e.dat"
                   },
                   {
@@ -5964,7 +5964,7 @@
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
                       "size":  1590320,
-                      "sha256":  "d1e1a10591130dfc015e07303fb8a79ff59575481483e9a497d47509804640ec",
+                      "sha256":  "e4e3fc6bc95f65f00e39cf205b743889a5ed4fb3ea29dd01540c4b3ad7569599",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
