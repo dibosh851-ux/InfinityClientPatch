@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.23.1326",
-    "generatedAt":  "2026-09-23T13:26:31",
+    "version":  "patch-2026.09.23.1328",
+    "generatedAt":  "2026-09-23T13:28:45",
     "root":  "files",
     "files":  [
                   {
@@ -3106,40 +3106,10 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
-                      "path":  "system-en/Interface.u.backup-20260923-041839",
-                      "size":  7648229,
-                      "sha256":  "1d5504ba7c4533e565989739df3aa1eaa464c9966f539b48d8e890e839a78e61",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u.backup-20260923-041839"
-                  },
-                  {
-                      "path":  "system-en/Interface.u.backup-20260923-045303",
-                      "size":  7648229,
-                      "sha256":  "4e17eaaff26ed18d3dbf4a7bce2d07c40ade84a57c8997bdaa3ec79a0d4779e6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u.backup-20260923-045303"
-                  },
-                  {
-                      "path":  "system-en/Interface.u.backup-20260923-050612",
-                      "size":  7648229,
-                      "sha256":  "4e17eaaff26ed18d3dbf4a7bce2d07c40ade84a57c8997bdaa3ec79a0d4779e6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u.backup-20260923-050612"
-                  },
-                  {
-                      "path":  "system-en/Interface.u.backup-20260923-054350",
-                      "size":  7648229,
-                      "sha256":  "6306e6118cc0bd75fe515870ee69bedb52afd8482789208bd55c0bafcf8ab7af",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u.backup-20260923-054350"
-                  },
-                  {
                       "path":  "system-en/Interface.xdat",
                       "size":  6652206,
                       "sha256":  "dbe186f8f391226ca03b6354f44321153c320d02c00b70a7a0b546a5575deefc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
-                  },
-                  {
-                      "path":  "system-en/Interface.xdat.backup-20260923-045303",
-                      "size":  6652206,
-                      "sha256":  "dbe186f8f391226ca03b6354f44321153c320d02c00b70a7a0b546a5575deefc",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat.backup-20260923-045303"
                   },
                   {
                       "path":  "system-en/InterfaceClassic.u",
@@ -4270,76 +4240,10 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
-                      "path":  "system-ru/Interface.u.backup-20260923-041839",
-                      "size":  7648229,
-                      "sha256":  "1d5504ba7c4533e565989739df3aa1eaa464c9966f539b48d8e890e839a78e61",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-041839"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-045303",
-                      "size":  7648229,
-                      "sha256":  "4e17eaaff26ed18d3dbf4a7bce2d07c40ade84a57c8997bdaa3ec79a0d4779e6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-045303"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-050612",
-                      "size":  7648229,
-                      "sha256":  "4e17eaaff26ed18d3dbf4a7bce2d07c40ade84a57c8997bdaa3ec79a0d4779e6",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-050612"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-054350",
-                      "size":  7648229,
-                      "sha256":  "6306e6118cc0bd75fe515870ee69bedb52afd8482789208bd55c0bafcf8ab7af",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-054350"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-101215",
-                      "size":  7648229,
-                      "sha256":  "0b19f64b2b073c2f71aa749512ad4649c0a4720d2f7750e304bbbf35183baaa0",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-101215"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-104554-before-two-columns",
-                      "size":  7648229,
-                      "sha256":  "539710ec37492fa001d603036af62f52cde32ed57ee0b8181fae7fe064406ed4",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-104554-before-two-columns"
-                  },
-                  {
-                      "path":  "system-ru/Interface.u.backup-20260923-105100-before-native-two-columns",
-                      "size":  7648229,
-                      "sha256":  "539710ec37492fa001d603036af62f52cde32ed57ee0b8181fae7fe064406ed4",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u.backup-20260923-105100-before-native-two-columns"
-                  },
-                  {
                       "path":  "system-ru/Interface.xdat",
                       "size":  6652246,
                       "sha256":  "1c4b257651749160f44156a8200cef025b32cfb6af7ad0095314558f9a12723b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
-                  },
-                  {
-                      "path":  "system-ru/Interface.xdat.backup-20260923-045303",
-                      "size":  6652206,
-                      "sha256":  "dbe186f8f391226ca03b6354f44321153c320d02c00b70a7a0b546a5575deefc",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat.backup-20260923-045303"
-                  },
-                  {
-                      "path":  "system-ru/Interface.xdat.backup-20260923-095717",
-                      "size":  6652206,
-                      "sha256":  "dbe186f8f391226ca03b6354f44321153c320d02c00b70a7a0b546a5575deefc",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat.backup-20260923-095717"
-                  },
-                  {
-                      "path":  "system-ru/Interface.xdat.backup-20260923-100502",
-                      "size":  6652206,
-                      "sha256":  "9865411d7274584f7544c5ae831931ff27850180808121bfc73f78baf8a1480a",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat.backup-20260923-100502"
-                  },
-                  {
-                      "path":  "system-ru/Interface.xdat.backup-20260923-111000-before-two-columns",
-                      "size":  6652206,
-                      "sha256":  "044c0bcb62662ab1854baca44b5a81df31231d3347b1e93587d7c435fbae6b46",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat.backup-20260923-111000-before-two-columns"
                   },
                   {
                       "path":  "system-ru/InterfaceClassic.u",
