@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.23.0158",
-    "generatedAt":  "2026-09-23T01:58:21",
+    "version":  "patch-2026.09.23.0317",
+    "generatedAt":  "2026-09-23T03:17:40",
     "root":  "files",
     "files":  [
                   {
@@ -1091,8 +1091,8 @@
                   },
                   {
                       "path":  "system-en/e/EtcItemgrp.dat",
-                      "size":  185520,
-                      "sha256":  "da4c3b693b4da311eb6ef35a5a9ccb79824508fe707d4e35f652a1c6ce669181",
+                      "size":  185392,
+                      "sha256":  "dae4d8d7e3252f4f319b26a9e058f6c96f43b5c82c22f69211f0f9101f935b9d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EtcItemgrp.dat"
                   },
                   {
@@ -1470,7 +1470,7 @@
                   {
                       "path":  "system-en/e/ItemName-e.dat",
                       "size":  1386032,
-                      "sha256":  "5a2c8018ed717310050c6c040f3acac4c8af35ff08e4b944bcf1acff0cd8ceb3",
+                      "sha256":  "6d6d400ee293ffb254fa748aefe58d9efe3f6f00435bc3c8794b004285f86738",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/ItemName-e.dat"
                   },
                   {
@@ -3089,8 +3089,8 @@
                   },
                   {
                       "path":  "system-en/infinity/inf.utx",
-                      "size":  18932249,
-                      "sha256":  "5eb66a8936830861035c78150eef8563cc035c17eee6760c28639f458574b6a7",
+                      "size":  18923832,
+                      "sha256":  "433f376097e682285133618a6a94ddf6439c9264adecaf60e4688efb9b64bd3c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/infinity/inf.utx"
                   },
                   {
@@ -4224,7 +4224,7 @@
                   {
                       "path":  "system-ru/infinity/inf.utx",
                       "size":  18932249,
-                      "sha256":  "5eb66a8936830861035c78150eef8563cc035c17eee6760c28639f458574b6a7",
+                      "sha256":  "c94be3107d421c312ec078d9ea4a310a1b16f23ed8d2bb060299760a2fcbe9a6",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/infinity/inf.utx"
                   },
                   {
@@ -5580,7 +5580,7 @@
                   {
                       "path":  "system-ru/ru/EtcItemgrp.dat",
                       "size":  185520,
-                      "sha256":  "699e5fc4e345bff1923dd9c1c803dee8d1fc9bad73648cae76ed7bfd53917ba2",
+                      "sha256":  "ba1727a0fa1634c7e80259288b3e01fd8cd7539420477dc1b14d18bdce92ed73",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EtcItemgrp.dat"
                   },
                   {
@@ -5958,7 +5958,7 @@
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
                       "size":  1589680,
-                      "sha256":  "8b875af0530557f5f0a6f2b8d73f05cc33586286a32ed392b8632e7331918390",
+                      "sha256":  "4d3c0c0f9329fe3bfd6e1edd05cae0b52cdc6f261ae91d47b2c33480c0292af1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
