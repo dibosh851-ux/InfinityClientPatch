@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.09.30.2314",
-    "generatedAt":  "2026-09-30T23:14:52",
+    "version":  "patch-2026.09.30.2343",
+    "generatedAt":  "2026-09-30T23:43:49",
     "root":  "files",
     "files":  [
                   {
@@ -2682,7 +2682,7 @@
                   {
                       "path":  "system-en/e/teleportlist.dat",
                       "size":  560,
-                      "sha256":  "8cbd294844a62206768752626ecee54ea0d96cf06f927e9fb056eb65c19bdae0",
+                      "sha256":  "ae31464333abc424c3d5acb3490f2ee06fdc413d5d53fedbe0c1f082b7672537",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/teleportlist.dat"
                   },
                   {
@@ -7032,7 +7032,7 @@
                   {
                       "path":  "system-ru/ru/SkillName-ru.dat",
                       "size":  2297136,
-                      "sha256":  "edbe99c01447fff320d23ffe5b5120e2b2fbb2a06c04dfc5c4fa3c71518865b4",
+                      "sha256":  "91b6cf0527d1f4bbaa4577cc77d95908add8fe7cf6f038a46b387ab6c6a90542",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/SkillName-ru.dat"
                   },
                   {
@@ -7176,7 +7176,7 @@
                   {
                       "path":  "system-ru/ru/teleportlist.dat",
                       "size":  432,
-                      "sha256":  "5374622624878175fe02fc5a4de127592eda5b109af1503a3b2d65db90000cff",
+                      "sha256":  "98604c7c900188c0b284df0e1a747501a3aade62eaa2575864e37cc903d0106d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/teleportlist.dat"
                   },
                   {
