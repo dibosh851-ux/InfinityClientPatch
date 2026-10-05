@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.05.1331",
-    "generatedAt":  "2026-10-05T13:31:59",
+    "version":  "patch-2026.10.05.2333",
+    "generatedAt":  "2026-10-05T23:33:10",
     "root":  "files",
     "files":  [
                   {
@@ -330,7 +330,7 @@
                   {
                       "path":  "system-en/e/AdditionalNpcGrpParts.dat",
                       "size":  3376,
-                      "sha256":  "074dac4528d0002007a03109874aa35b3729d66d67d80e4411518d3407064c99",
+                      "sha256":  "4a64df0f48536c3455a57f5e9d8029588ea9f53e928176a744c3361eac7bbff7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/AdditionalNpcGrpParts.dat"
                   },
                   {
@@ -408,7 +408,7 @@
                   {
                       "path":  "system-en/e/Armorgrp.dat",
                       "size":  583984,
-                      "sha256":  "37d429a3b0d372aaff1fd3ba4a3f4cd072a78740d15c54f0c6f16a1823cc58d4",
+                      "sha256":  "9ac8aa422764bebb9e24a85e9824569201383bb27120211527f84dbac8954acf",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Armorgrp.dat"
                   },
                   {
@@ -1091,8 +1091,8 @@
                   },
                   {
                       "path":  "system-en/e/EtcItemgrp.dat",
-                      "size":  185648,
-                      "sha256":  "de5d050ed8dbd749e97857ca35849afe12c318aa29ed8cb0b4b4fd992fe03178",
+                      "size":  186032,
+                      "sha256":  "f289228a64c325cc0433708c003cb95084a51a40b9b802c54232050ab43d10af",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EtcItemgrp.dat"
                   },
                   {
@@ -1469,8 +1469,8 @@
                   },
                   {
                       "path":  "system-en/e/ItemName-e.dat",
-                      "size":  1387312,
-                      "sha256":  "c2caaed975ac9213f031703c8c9e4c64330bdad580865f987074420245557110",
+                      "size":  1387952,
+                      "sha256":  "1df13e33e536547c193d8c04f2f969b30ad45f5d9e68d228a6b52663eae7d0bc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/ItemName-e.dat"
                   },
                   {
@@ -1511,8 +1511,8 @@
                   },
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
-                      "size":  744368,
-                      "sha256":  "0c1150d862ca1bbaa2be70de312a4092d92bbe8ec212dbfcb028bbcd92a22dcc",
+                      "size":  745392,
+                      "sha256":  "644e5ed8baf3885bfc30a73efd85fce53b452de9b16367ca982ffbd46fbeb910",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -1907,8 +1907,8 @@
                   },
                   {
                       "path":  "system-en/e/Npcgrp.dat",
-                      "size":  330032,
-                      "sha256":  "b6db3dba05e114db6d389a11d3896be921732f5e2e3fa483a127c7504fd43f82",
+                      "size":  331184,
+                      "sha256":  "ec2d654a59df7ceeda8ee3a4a5ca287c0735fa538b80199f7e787a5ebeb356b2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Npcgrp.dat"
                   },
                   {
@@ -3101,14 +3101,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  18169199,
-                      "sha256":  "d79b2de909b0121c7f6e6ec41bfdf10e6939fe88a483f1ab90e182300874e101",
+                      "size":  19186231,
+                      "sha256":  "b75ecf5215ca1b2730352c41110cffff90510daa1a116ac9586954513c5ccf65",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  6698730,
-                      "sha256":  "68b316386d364a7315126e54213663223e5e5895ae8f71edea82d27965592ed5",
+                      "size":  7015417,
+                      "sha256":  "a35a01ea137b0f22452e93d8c232bfee9a4cf137911a97fef931b51d5b77018e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4235,14 +4235,14 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  18169199,
-                      "sha256":  "d79b2de909b0121c7f6e6ec41bfdf10e6939fe88a483f1ab90e182300874e101",
+                      "size":  19186231,
+                      "sha256":  "b75ecf5215ca1b2730352c41110cffff90510daa1a116ac9586954513c5ccf65",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  6698730,
-                      "sha256":  "68b316386d364a7315126e54213663223e5e5895ae8f71edea82d27965592ed5",
+                      "size":  7015417,
+                      "sha256":  "a35a01ea137b0f22452e93d8c232bfee9a4cf137911a97fef931b51d5b77018e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -4818,7 +4818,7 @@
                   {
                       "path":  "system-ru/ru/AdditionalNpcGrpParts.dat",
                       "size":  3376,
-                      "sha256":  "074dac4528d0002007a03109874aa35b3729d66d67d80e4411518d3407064c99",
+                      "sha256":  "4a64df0f48536c3455a57f5e9d8029588ea9f53e928176a744c3361eac7bbff7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/AdditionalNpcGrpParts.dat"
                   },
                   {
@@ -4896,7 +4896,7 @@
                   {
                       "path":  "system-ru/ru/Armorgrp.dat",
                       "size":  583344,
-                      "sha256":  "2ff024032e6e9772f053c50aa8dccc09d3c7674a7014b778336f6233b6832a52",
+                      "sha256":  "b00b61c53b397efbd9c0b303224c77134fbe1ebd85b118f681497d977900cda7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Armorgrp.dat"
                   },
                   {
@@ -5579,8 +5579,8 @@
                   },
                   {
                       "path":  "system-ru/ru/EtcItemgrp.dat",
-                      "size":  185648,
-                      "sha256":  "2213ace0c6f580720b7141b84afc2e1f7c2216e881eec03ff4c00d30979bcdbe",
+                      "size":  186160,
+                      "sha256":  "0060bb1ddcfbaef6a8917f11b515b84b1c3630ef716cd0fe5abf6edc18e16fd8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EtcItemgrp.dat"
                   },
                   {
@@ -5957,8 +5957,8 @@
                   },
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
-                      "size":  1592112,
-                      "sha256":  "a62d37e6e09f380c262a52dd169a931a5c38157ae5897dcf4163f28626027074",
+                      "size":  1592880,
+                      "sha256":  "c6ebd899472f142a4ed8f21d17b3a7f15d60abb6a9d9977609a59fc4ec671899",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
@@ -6395,8 +6395,8 @@
                   },
                   {
                       "path":  "system-ru/ru/Npcgrp.dat",
-                      "size":  330160,
-                      "sha256":  "f44188ed26058ae293a0392fe4db87b427d33105eccb1ac89bce86df9fb4c5fe",
+                      "size":  331312,
+                      "sha256":  "3b408f785250352bc3d93d1b3fa126365ce1a7d75ea63d5734f66a41b9a2cc6f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Npcgrp.dat"
                   },
                   {
