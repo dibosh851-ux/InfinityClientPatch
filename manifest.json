@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.07.0013",
-    "generatedAt":  "2026-10-07T00:13:17",
+    "version":  "patch-2026.10.07.0122",
+    "generatedAt":  "2026-10-07T01:22:53",
     "root":  "files",
     "files":  [
                   {
@@ -3101,8 +3101,8 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  19158603,
-                      "sha256":  "e7ea1fcc1312eb444eb53cf520002ad67505c6fc9b3dddd71c025ff5cb98daa4",
+                      "size":  19158427,
+                      "sha256":  "f357440362a77b633cc4075b1192e5fac2804cf8928051734b94068706c90539",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
@@ -4235,8 +4235,8 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  19158603,
-                      "sha256":  "e7ea1fcc1312eb444eb53cf520002ad67505c6fc9b3dddd71c025ff5cb98daa4",
+                      "size":  19158427,
+                      "sha256":  "f357440362a77b633cc4075b1192e5fac2804cf8928051734b94068706c90539",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
