@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.09.1029",
-    "generatedAt":  "2026-10-09T10:29:17",
+    "version":  "patch-2026.10.09.1622",
+    "generatedAt":  "2026-10-09T16:22:50",
     "root":  "files",
     "files":  [
                   {
@@ -1092,7 +1092,7 @@
                   {
                       "path":  "system-en/e/EtcItemgrp.dat",
                       "size":  186544,
-                      "sha256":  "ba967993f7b5af089446145f4f1d62ed775e0ee7423d20e30a1b5e7cfdce955b",
+                      "sha256":  "206ff37ef18ca8540d64f45916a15e943826cdb6243bdf49940f1b8464455872",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EtcItemgrp.dat"
                   },
                   {
@@ -1469,8 +1469,8 @@
                   },
                   {
                       "path":  "system-en/e/ItemName-e.dat",
-                      "size":  1390768,
-                      "sha256":  "41ae0bc5ba2e21e3300c32fb2b870a87a2264ed05b85f4642de5734490f64163",
+                      "size":  1390896,
+                      "sha256":  "d540c84a4f255318dccd3214be8a538f1268b9d6c79fa20494c3fb56b7e86a8f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/ItemName-e.dat"
                   },
                   {
@@ -1512,7 +1512,7 @@
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
                       "size":  747312,
-                      "sha256":  "24879e55119a1499ba6004465165b6f5c61fb77116a5118ff5e4d5b317c01ce6",
+                      "sha256":  "9646b282608150343e246e804d4928411b685c19e32f998d47216909606d42d5",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -2718,7 +2718,7 @@
                   {
                       "path":  "system-en/e/TransformData.dat",
                       "size":  2096,
-                      "sha256":  "47d1a468c78cd14a4d5fd3d92c793939bae5f999d0d195e4e5ebfe6b622a3aab",
+                      "sha256":  "241b8486355bb7221666de337440792d8fb062386f2832169998e327986ce6db",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/TransformData.dat"
                   },
                   {
@@ -5580,7 +5580,7 @@
                   {
                       "path":  "system-ru/ru/EtcItemgrp.dat",
                       "size":  186544,
-                      "sha256":  "6ff366d2fde91065f11326b19598417fd46eb4e182557ee0d739ebbc3bf82259",
+                      "sha256":  "77f1eea55611200957b22bc1ea132b6a5834781436f1fd7e09097d9266b86506",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EtcItemgrp.dat"
                   },
                   {
@@ -5957,8 +5957,8 @@
                   },
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
-                      "size":  1596592,
-                      "sha256":  "9cc6910b47e0f85cc0f647a0e037b491102fc3ff5c8c6f5c44240b5c843c5253",
+                      "size":  1596720,
+                      "sha256":  "1f765a449aa79b8d207cb9c5488d3ada236ef3306d44ecac8457a47de392316f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
@@ -6000,7 +6000,7 @@
                   {
                       "path":  "system-ru/ru/L2GameDataName.dat",
                       "size":  961328,
-                      "sha256":  "97b23cc99d23127e66ac39e6eea20ec16b15fac3c9fe7bf67262dc4b88da6ada",
+                      "sha256":  "816bf163e5091e7546c02517d464ccce7e81af418082de2cd6f03e4b10a6fd31",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/L2GameDataName.dat"
                   },
                   {
@@ -7206,7 +7206,7 @@
                   {
                       "path":  "system-ru/ru/TransformData.dat",
                       "size":  2096,
-                      "sha256":  "128b7f40609664233ad83a288e0f5c0760a3ea0baa0d8958f943cef90bdedfb7",
+                      "sha256":  "7d83f736dcf70cbbe7d5b32a4162d3b0844db8182aea65f6260e42844b7a09d2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/TransformData.dat"
                   },
                   {
