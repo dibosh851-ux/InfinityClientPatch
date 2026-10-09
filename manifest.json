@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.09.1622",
-    "generatedAt":  "2026-10-09T16:22:50",
+    "version":  "patch-2026.10.09.2037",
+    "generatedAt":  "2026-10-09T20:37:50",
     "root":  "files",
     "files":  [
                   {
@@ -3100,15 +3100,27 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/infinity/Infinity.utx"
                   },
                   {
+                      "path":  "system-en/InfinityAccounts.dll",
+                      "size":  219136,
+                      "sha256":  "666637e4804dbf8fe85983768ced3662ec40ee1481e2521ca8e6e3157c630f1b",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/InfinityAccounts.dll"
+                  },
+                  {
+                      "path":  "system-en/InfinityAccounts.Loader.exe",
+                      "size":  9728,
+                      "sha256":  "96ec333030fc650ff05b345cd38d68b8f377c902e27c191d2e49e2363dcbd674",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/InfinityAccounts.Loader.exe"
+                  },
+                  {
                       "path":  "system-en/Interface.u",
-                      "size":  27605324,
-                      "sha256":  "2bbcc4593783213c06002fd9e4ebc4d66adbbcca42c9588f09284c40ffa26df0",
+                      "size":  27630780,
+                      "sha256":  "bdeda9a93f65c22b39a26dddcee3dabc0679520f765b5dd4bd9961c3ad588a73",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7038312,
-                      "sha256":  "1dbfa8c5ed1c1324fb906874563a6ff3721863f3e8b9a64f9c798b6e43383170",
+                      "size":  7042374,
+                      "sha256":  "e94e9a77199c5eed82c90c5cb09681ec3d3e5ea38d5ff256364e35791611338e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -3131,8 +3143,8 @@
                   },
                   {
                       "path":  "system-en/L2.exe",
-                      "size":  4288680,
-                      "sha256":  "3b051752ea486d5661faa294e47a3c237b08703653d93c80f96f726d062c1dcd",
+                      "size":  7168,
+                      "sha256":  "899219c38219d3594723e4cd0f6325e75e7afc1b427093f17b96178770320c71",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/L2.exe"
                   },
                   {
@@ -4234,15 +4246,27 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/infinity/Infinity.utx"
                   },
                   {
+                      "path":  "system-ru/InfinityAccounts.dll",
+                      "size":  219136,
+                      "sha256":  "666637e4804dbf8fe85983768ced3662ec40ee1481e2521ca8e6e3157c630f1b",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityAccounts.dll"
+                  },
+                  {
+                      "path":  "system-ru/InfinityAccounts.Loader.exe",
+                      "size":  9728,
+                      "sha256":  "96ec333030fc650ff05b345cd38d68b8f377c902e27c191d2e49e2363dcbd674",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityAccounts.Loader.exe"
+                  },
+                  {
                       "path":  "system-ru/Interface.u",
-                      "size":  27605324,
-                      "sha256":  "2bbcc4593783213c06002fd9e4ebc4d66adbbcca42c9588f09284c40ffa26df0",
+                      "size":  27630780,
+                      "sha256":  "bdeda9a93f65c22b39a26dddcee3dabc0679520f765b5dd4bd9961c3ad588a73",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7038312,
-                      "sha256":  "1dbfa8c5ed1c1324fb906874563a6ff3721863f3e8b9a64f9c798b6e43383170",
+                      "size":  7042374,
+                      "sha256":  "e94e9a77199c5eed82c90c5cb09681ec3d3e5ea38d5ff256364e35791611338e",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -4265,8 +4289,8 @@
                   },
                   {
                       "path":  "system-ru/L2.exe",
-                      "size":  4288680,
-                      "sha256":  "3b051752ea486d5661faa294e47a3c237b08703653d93c80f96f726d062c1dcd",
+                      "size":  7168,
+                      "sha256":  "899219c38219d3594723e4cd0f6325e75e7afc1b427093f17b96178770320c71",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/L2.exe"
                   },
                   {
