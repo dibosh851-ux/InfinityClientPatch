@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.09.2037",
-    "generatedAt":  "2026-10-09T20:37:50",
+    "version":  "patch-2026.10.09.2041",
+    "generatedAt":  "2026-10-09T20:41:43",
     "root":  "files",
     "files":  [
                   {
@@ -7742,6 +7742,12 @@
                       "size":  523664,
                       "sha256":  "cc3d9a63e42e5ca64b258a4b433fa4fa477a6204cd3b62b1b0cf89d44ebc0acc",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/YetiLoaderDLL.dll"
+                  },
+                  {
+                      "path":  "SysTextures/ui7.ugx",
+                      "size":  29226678,
+                      "sha256":  "520ef6a2293199b73d6c31c10cdc07b1195274b90dd0579ac2831d709ed4a56f",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/SysTextures/ui7.ugx"
                   }
               ],
     "delete":  [
