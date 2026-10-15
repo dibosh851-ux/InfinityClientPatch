@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.15.2250",
-    "generatedAt":  "2026-10-15T22:50:47",
+    "version":  "patch-2026.10.16.0031",
+    "generatedAt":  "2026-10-16T00:31:25",
     "root":  "files",
     "files":  [
                   {
@@ -2928,7 +2928,7 @@
                   {
                       "path":  "system-en/e/Weapongrp.dat",
                       "size":  230704,
-                      "sha256":  "5b492ad55b2e36c9fca3eca1e1c444dcb570076881dd899d0e1e044e468f40e8",
+                      "sha256":  "b79a294e71bb34ef349f2d6ed8a3cc0f5fa052821a44c46a1fe15b3634c930ef",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Weapongrp.dat"
                   },
                   {
@@ -4274,12 +4274,6 @@
                       "size":  9728,
                       "sha256":  "96ec333030fc650ff05b345cd38d68b8f377c902e27c191d2e49e2363dcbd674",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityAccounts.Loader.exe"
-                  },
-                  {
-                      "path":  "system-ru/InfinityShortcutTrace.ini",
-                      "size":  3299,
-                      "sha256":  "7a6126f5b5a754d296090db65818fbce6f8b9fa23bf05c3e8fa532006c79eed2",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityShortcutTrace.ini"
                   },
                   {
                       "path":  "system-ru/Interface.u",
@@ -7446,7 +7440,7 @@
                   {
                       "path":  "system-ru/ru/Weapongrp.dat",
                       "size":  230832,
-                      "sha256":  "4de5f49c1916152892c0a0148c1bce5623ef861bd689ade27eb8495d751233ad",
+                      "sha256":  "964e472659ff1e2b78dc4727e07b77031fc77c3c12bdd7a46511d3ee4e5829e8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Weapongrp.dat"
                   },
                   {
