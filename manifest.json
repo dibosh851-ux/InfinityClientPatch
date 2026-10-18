@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.18.1114",
-    "generatedAt":  "2026-10-18T11:14:42",
+    "version":  "patch-2026.10.18.2144",
+    "generatedAt":  "2026-10-18T21:44:14",
     "root":  "files",
     "files":  [
                   {
@@ -263,8 +263,8 @@
                   },
                   {
                       "path":  "system-en/e/AbnormalDefaultEffect.dat",
-                      "size":  11952,
-                      "sha256":  "246117c6c82dcf88b3fc2541df9300b5d083a71294fab292b8302610167d603b",
+                      "size":  12208,
+                      "sha256":  "87d9ba7e4102d226ec625829a9df7a70937d8ae76b5d10829bf5f0302e5f357c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/AbnormalDefaultEffect.dat"
                   },
                   {
@@ -3130,9 +3130,15 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/InfinityAccounts.Loader.exe"
                   },
                   {
+                      "path":  "system-en/InfinityRuneEffects.u",
+                      "size":  11649885,
+                      "sha256":  "6245bee6d0f9e06b5b99db82b5dd69dedf8c45deb552cf0d1bef62245cd778d4",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/InfinityRuneEffects.u"
+                  },
+                  {
                       "path":  "system-en/Interface.u",
-                      "size":  27778652,
-                      "sha256":  "2a5da52a5c6b85796153bf25960469b8439ff7f52beb2f28f46d0423998e8066",
+                      "size":  27778616,
+                      "sha256":  "87e9b3e290e31aabaa972cc5169c1cf0622718618851756f9e3561546ff0ad9c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
@@ -4276,9 +4282,15 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityAccounts.Loader.exe"
                   },
                   {
+                      "path":  "system-ru/InfinityRuneEffects.u",
+                      "size":  11649885,
+                      "sha256":  "6245bee6d0f9e06b5b99db82b5dd69dedf8c45deb552cf0d1bef62245cd778d4",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityRuneEffects.u"
+                  },
+                  {
                       "path":  "system-ru/Interface.u",
-                      "size":  27778652,
-                      "sha256":  "2a5da52a5c6b85796153bf25960469b8439ff7f52beb2f28f46d0423998e8066",
+                      "size":  27778616,
+                      "sha256":  "87e9b3e290e31aabaa972cc5169c1cf0622718618851756f9e3561546ff0ad9c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
@@ -4775,8 +4787,8 @@
                   },
                   {
                       "path":  "system-ru/ru/AbnormalDefaultEffect.dat",
-                      "size":  11952,
-                      "sha256":  "246117c6c82dcf88b3fc2541df9300b5d083a71294fab292b8302610167d603b",
+                      "size":  12208,
+                      "sha256":  "87d9ba7e4102d226ec625829a9df7a70937d8ae76b5d10829bf5f0302e5f357c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/AbnormalDefaultEffect.dat"
                   },
                   {
