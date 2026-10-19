@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.19.2255",
-    "generatedAt":  "2026-10-19T22:55:56",
+    "version":  "patch-2026.10.20.0107",
+    "generatedAt":  "2026-10-20T01:07:40",
     "root":  "files",
     "files":  [
                   {
@@ -2556,7 +2556,7 @@
                   {
                       "path":  "system-en/e/SkillName-e.dat",
                       "size":  1917488,
-                      "sha256":  "754fe3bbb9e2945493ba460b0908d08d44633d1a5ce1f6b7cdf1dfcc05de45c8",
+                      "sha256":  "cd60889c31f2ef3c2170d2c05679a5c215ae0b83e32a20c81ff71cddb92f2f3a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/SkillName-e.dat"
                   },
                   {
@@ -3137,14 +3137,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  27793617,
-                      "sha256":  "4fa6dec81bd139e5c444b5c475804996791d5ca69dd5c0984344fed782b7380b",
+                      "size":  27830300,
+                      "sha256":  "6a9b0438fe783916d0ddf8a8437bce3f8fc4945bbb7b528949a6e50cf40ec69c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7144125,
-                      "sha256":  "d905265f682ecc7c4eb3531e93f6efff67a35323e752fbda72443d846b4b4107",
+                      "size":  7159256,
+                      "sha256":  "17c6424fc3dd40b365b07ed1e6a414192364abd7ddfb382b6b15839e92e23cb2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4289,14 +4289,14 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  27793617,
-                      "sha256":  "4fa6dec81bd139e5c444b5c475804996791d5ca69dd5c0984344fed782b7380b",
+                      "size":  27830300,
+                      "sha256":  "6a9b0438fe783916d0ddf8a8437bce3f8fc4945bbb7b528949a6e50cf40ec69c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7144125,
-                      "sha256":  "d905265f682ecc7c4eb3531e93f6efff67a35323e752fbda72443d846b4b4107",
+                      "size":  7159256,
+                      "sha256":  "17c6424fc3dd40b365b07ed1e6a414192364abd7ddfb382b6b15839e92e23cb2",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -7080,7 +7080,7 @@
                   {
                       "path":  "system-ru/ru/SkillName-ru.dat",
                       "size":  2322096,
-                      "sha256":  "d2703f984df606f3d68cc637e069f0c448c952950ef102296ef2047c0ac678d6",
+                      "sha256":  "cec8c3dec8ce407bf78cb368c42aaa056f4519579bd36c0991860f8f8c12b45f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/SkillName-ru.dat"
                   },
                   {
