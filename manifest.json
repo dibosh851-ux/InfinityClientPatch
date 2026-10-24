@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.24.2015",
-    "generatedAt":  "2026-10-24T20:15:37",
+    "version":  "patch-2026.10.24.2226",
+    "generatedAt":  "2026-10-24T22:26:52",
     "root":  "files",
     "files":  [
                   {
@@ -2526,7 +2526,7 @@
                   {
                       "path":  "system-en/e/Skillgrp.dat",
                       "size":  986416,
-                      "sha256":  "4a26b16a9e03dfe7c67002ca1ea27b53349531bc69633b0fd6bd9ac54ec2dc03",
+                      "sha256":  "8c5bf9e8fac19280bfe7d867a434c79572bd5dbf9a48246f40e4fb75b49a7ba4",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Skillgrp.dat"
                   },
                   {
@@ -3143,8 +3143,8 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  39143695,
-                      "sha256":  "ac91a999c2a64c4c267265c29718bc09e31cbdebbe9d28006927e5c7b7e0eb68",
+                      "size":  39148224,
+                      "sha256":  "e0f9d542e7931a4a05c2f960e917e69937b49ff9fd1c4b88d2a2f403acc1acc1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
@@ -4301,8 +4301,8 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  39143695,
-                      "sha256":  "ac91a999c2a64c4c267265c29718bc09e31cbdebbe9d28006927e5c7b7e0eb68",
+                      "size":  39148224,
+                      "sha256":  "e0f9d542e7931a4a05c2f960e917e69937b49ff9fd1c4b88d2a2f403acc1acc1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
@@ -4349,8 +4349,8 @@
                   },
                   {
                       "path":  "system-ru/L2CompiledShader.bin",
-                      "size":  63081,
-                      "sha256":  "f0af4284b2d29c65634838c9a6db0c9d755285d307a5460d7ba5ed4c0b29427a",
+                      "size":  65043,
+                      "sha256":  "9f26fb1dba893ea1534fba7807470a7ac8e1995fa065bfedcd7f82afbebfa92f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/L2CompiledShader.bin"
                   },
                   {
@@ -7062,7 +7062,7 @@
                   {
                       "path":  "system-ru/ru/Skillgrp.dat",
                       "size":  986416,
-                      "sha256":  "bd2a419712e023db24b82b5282c2509c2a873707c92ca03eac27f4e58c1ef834",
+                      "sha256":  "deeb4fac8001df90834c7290a83764a9dad64930f1faf01b92fcf4261232ae60",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Skillgrp.dat"
                   },
                   {
