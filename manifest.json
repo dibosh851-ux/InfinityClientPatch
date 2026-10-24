@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.25.0125",
-    "generatedAt":  "2026-10-25T01:25:13",
+    "version":  "patch-2026.10.25.0129",
+    "generatedAt":  "2026-10-25T01:30:06",
     "root":  "files",
     "files":  [
                   {
@@ -3143,14 +3143,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  39150342,
-                      "sha256":  "534e735285babba61766a3afacc80a5b131e7373f3d2035c2ce620cfa437d89e",
+                      "size":  39159273,
+                      "sha256":  "09ac89c036cf55e9b35554f3469832a512165685773b33b9455eb7edcacef1a9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7248117,
-                      "sha256":  "f757449ea150d2033cc75612c48eeb4960b6ee505d31831f944734e8e48a5aec",
+                      "size":  7253750,
+                      "sha256":  "ee6ec91b9d5864b938378fc4ea1b6c15b6026ae25114f73dae7cadc748dc5c00",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4301,14 +4301,14 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  39150342,
-                      "sha256":  "534e735285babba61766a3afacc80a5b131e7373f3d2035c2ce620cfa437d89e",
+                      "size":  39159273,
+                      "sha256":  "09ac89c036cf55e9b35554f3469832a512165685773b33b9455eb7edcacef1a9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7248117,
-                      "sha256":  "f757449ea150d2033cc75612c48eeb4960b6ee505d31831f944734e8e48a5aec",
+                      "size":  7253750,
+                      "sha256":  "ee6ec91b9d5864b938378fc4ea1b6c15b6026ae25114f73dae7cadc748dc5c00",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
