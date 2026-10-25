@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.25.0144",
-    "generatedAt":  "2026-10-25T01:44:34",
+    "version":  "patch-2026.10.25.1754",
+    "generatedAt":  "2026-10-25T17:54:15",
     "root":  "files",
     "files":  [
                   {
@@ -1109,8 +1109,8 @@
                   },
                   {
                       "path":  "system-en/e/EtcItemgrp.dat",
-                      "size":  186928,
-                      "sha256":  "c5aa414b147e163d7497354a24d94cdb31d64788473ede46c9ac782a29be1f0d",
+                      "size":  187312,
+                      "sha256":  "6c99076ad93f2de0e19e9f047e7a19e5a12a83b1b6583402658400a2bbe95852",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EtcItemgrp.dat"
                   },
                   {
@@ -1487,8 +1487,8 @@
                   },
                   {
                       "path":  "system-en/e/ItemName-e.dat",
-                      "size":  1395376,
-                      "sha256":  "83089b38aca7ba4aebdd6030194a205d4ad6a1f3178571992a2e8885d97c49ef",
+                      "size":  1396912,
+                      "sha256":  "370b07d8f367eed5a28943883eca1930267a2b35cc0849b6ae0cb76e0267e716",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/ItemName-e.dat"
                   },
                   {
@@ -1529,8 +1529,8 @@
                   },
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
-                      "size":  748464,
-                      "sha256":  "8bf95f2b2c4f4c3f29115864ec094af263d5aa556cdc949c2a6fcde96fe9920a",
+                      "size":  748848,
+                      "sha256":  "ea24bda2a5782c385c842ba9eef864a2d97c8088f2e7bd3069768de3fa35e063",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -2928,7 +2928,7 @@
                   {
                       "path":  "system-en/e/Weapongrp.dat",
                       "size":  230704,
-                      "sha256":  "b79a294e71bb34ef349f2d6ed8a3cc0f5fa052821a44c46a1fe15b3634c930ef",
+                      "sha256":  "bad60e5e4ef325a0d7e12cde85fc453ce2deb35bc42103e8a63867c5050e7bfe",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Weapongrp.dat"
                   },
                   {
@@ -3107,8 +3107,8 @@
                   },
                   {
                       "path":  "system-en/infinity/inf.utx",
-                      "size":  19189329,
-                      "sha256":  "e89796c29cabde9baacf355c1a9916f5b456f81f428786bbdeedd31cd5038958",
+                      "size":  19187131,
+                      "sha256":  "2ea7e23c27b1ab463321fc8d57a76c494ce5e36610b0e6c540a20b14960e9698",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/infinity/inf.utx"
                   },
                   {
@@ -3143,8 +3143,8 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  39160012,
-                      "sha256":  "30c6cbd4a2f44990345628179c9e2edd6213b022fdf039676362a3f3bb8d7653",
+                      "size":  39184492,
+                      "sha256":  "360b2d444964f5dbfb680cc16f1c8a7eaa903148f6a9059c7919d2f598d08196",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.u"
                   },
                   {
@@ -3452,30 +3452,6 @@
                       "size":  250306,
                       "sha256":  "ceb3b729a3c218e4cbd4d41f62563b8f8a5f6264e77d90c11454281342d3d970",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LineageNpcEv.u"
-                  },
-                  {
-                      "path":  "system-en/LineageNPCs_MultiWorld.u",
-                      "size":  29273438,
-                      "sha256":  "ed5ca61a593ba122f71df813736fccf0ad0f788de23f8285d80ddc26ecca5472",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LineageNPCs_MultiWorld.u"
-                  },
-                  {
-                      "path":  "system-en/LineageNPCs_MultiWorld02.u",
-                      "size":  48481089,
-                      "sha256":  "91252bb89093ec7fb83bb213ec15a12ec815991ed9cbf3d54a57bd1546652f70",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LineageNPCs_MultiWorld02.u"
-                  },
-                  {
-                      "path":  "system-en/LineageNPCs_MultiWorld03.u",
-                      "size":  14304618,
-                      "sha256":  "20099ac532882044834688798b030e7e44bc420fce379576c7a5b2e7830c62ec",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LineageNPCs_MultiWorld03.u"
-                  },
-                  {
-                      "path":  "system-en/LineageNPCs_MultiWorld04.u",
-                      "size":  14607,
-                      "sha256":  "b8f54388b6a6014a50abf5842883cf408b82c3d288b85b276d85c48074206754",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LineageNPCs_MultiWorld04.u"
                   },
                   {
                       "path":  "system-en/LineageSceneInfo.u",
@@ -4259,8 +4235,8 @@
                   },
                   {
                       "path":  "system-ru/infinity/inf.utx",
-                      "size":  19189329,
-                      "sha256":  "e89796c29cabde9baacf355c1a9916f5b456f81f428786bbdeedd31cd5038958",
+                      "size":  19187131,
+                      "sha256":  "2ea7e23c27b1ab463321fc8d57a76c494ce5e36610b0e6c540a20b14960e9698",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/infinity/inf.utx"
                   },
                   {
@@ -4301,8 +4277,8 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  39160012,
-                      "sha256":  "30c6cbd4a2f44990345628179c9e2edd6213b022fdf039676362a3f3bb8d7653",
+                      "size":  39184492,
+                      "sha256":  "360b2d444964f5dbfb680cc16f1c8a7eaa903148f6a9059c7919d2f598d08196",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.u"
                   },
                   {
@@ -4616,30 +4592,6 @@
                       "size":  250306,
                       "sha256":  "ceb3b729a3c218e4cbd4d41f62563b8f8a5f6264e77d90c11454281342d3d970",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LineageNpcEv.u"
-                  },
-                  {
-                      "path":  "system-ru/LineageNPCs_MultiWorld.u",
-                      "size":  29273438,
-                      "sha256":  "ed5ca61a593ba122f71df813736fccf0ad0f788de23f8285d80ddc26ecca5472",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LineageNPCs_MultiWorld.u"
-                  },
-                  {
-                      "path":  "system-ru/LineageNPCs_MultiWorld02.u",
-                      "size":  48481089,
-                      "sha256":  "91252bb89093ec7fb83bb213ec15a12ec815991ed9cbf3d54a57bd1546652f70",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LineageNPCs_MultiWorld02.u"
-                  },
-                  {
-                      "path":  "system-ru/LineageNPCs_MultiWorld03.u",
-                      "size":  14304618,
-                      "sha256":  "20099ac532882044834688798b030e7e44bc420fce379576c7a5b2e7830c62ec",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LineageNPCs_MultiWorld03.u"
-                  },
-                  {
-                      "path":  "system-ru/LineageNPCs_MultiWorld04.u",
-                      "size":  14607,
-                      "sha256":  "b8f54388b6a6014a50abf5842883cf408b82c3d288b85b276d85c48074206754",
-                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LineageNPCs_MultiWorld04.u"
                   },
                   {
                       "path":  "system-ru/LineageSceneInfo.u",
@@ -5645,8 +5597,8 @@
                   },
                   {
                       "path":  "system-ru/ru/EtcItemgrp.dat",
-                      "size":  187056,
-                      "sha256":  "d890fd9de23850348d20f6518d52790f21d56f71a1e8e72e6ef3bada1fa53fe4",
+                      "size":  187312,
+                      "sha256":  "1d4969160d527be68da042654112a5ba47746079b75c532a0919b7487592c9d0",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EtcItemgrp.dat"
                   },
                   {
@@ -6023,8 +5975,8 @@
                   },
                   {
                       "path":  "system-ru/ru/ItemName-ru.dat",
-                      "size":  1601712,
-                      "sha256":  "23404e148f9f2331d7f7002ca2b623cb3739ff8ea0172bba26682ea8a3fffca8",
+                      "size":  1602864,
+                      "sha256":  "0097359689443707aa9d3d37dd999d76365a32f5241515be649e9240206dcdf7",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ItemName-ru.dat"
                   },
                   {
@@ -6065,8 +6017,8 @@
                   },
                   {
                       "path":  "system-ru/ru/L2GameDataName.dat",
-                      "size":  962480,
-                      "sha256":  "3aba37b6ec3ff4f3976c6d6b95f66385d9d6bbfb33319f31019c36c3718eca8d",
+                      "size":  962992,
+                      "sha256":  "644e72ff75cd1e21d2efa75c17a35ba59f7daeea2f0c95f260074cb34d0e897f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/L2GameDataName.dat"
                   },
                   {
@@ -7464,7 +7416,7 @@
                   {
                       "path":  "system-ru/ru/Weapongrp.dat",
                       "size":  230832,
-                      "sha256":  "964e472659ff1e2b78dc4727e07b77031fc77c3c12bdd7a46511d3ee4e5829e8",
+                      "sha256":  "5a827bfd62fd368da8da1a586bf78d9d4fbe161e72f0bfba86253829f962b884",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Weapongrp.dat"
                   },
                   {
