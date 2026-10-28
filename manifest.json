@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.10.29.0028",
-    "generatedAt":  "2026-10-29T00:29:08",
+    "version":  "patch-2026.10.29.0045",
+    "generatedAt":  "2026-10-29T00:45:31",
     "root":  "files",
     "files":  [
                   {
@@ -62,6 +62,12 @@
                       "size":  20610120,
                       "sha256":  "4be9f9449603808bebcaded59bc562fd82425c95c3907d624ab91231316ab6d3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Awesomium.dll"
+                  },
+                  {
+                      "path":  "system-en/AwesomiumProcess/AwesomiumProcess.exe",
+                      "size":  453944,
+                      "sha256":  "05fb5fe785cbf16ab0e835dc8ec7fbbb4078d6521a980c93ab21d3a8190093f0",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/AwesomiumProcess/AwesomiumProcess.exe"
                   },
                   {
                       "path":  "system-en/bb.dll",
@@ -158,6 +164,13 @@
                       "size":  622967,
                       "sha256":  "d8ceb99376688ab15eb4a9142750f9753d9f01df642dd17829bbb6edb261cfc9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/cef_200_percent.pak"
+                  },
+                  {
+                      "path":  "system-en/chatfilter.ini",
+                      "size":  3132,
+                      "sha256":  "e6922d0e4dfd0da10a21216982c121c403b135ace7c56b01cfadb20548ecce17",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/chatfilter.ini"
                   },
                   {
                       "path":  "system-en/chrome_100_percent.pak",
@@ -3082,6 +3095,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Hair.int"
                   },
                   {
+                      "path":  "system-en/HardWare.ini",
+                      "size":  417,
+                      "sha256":  "c9332e7c70e3b8d30129a4389cb27b735e1f07fab4077e2095cc37885de6266b",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/HardWare.ini"
+                  },
+                  {
                       "path":  "system-en/icudt.dll",
                       "size":  9957960,
                       "sha256":  "455b4341012dd3916920456580ae1ea4ea28528876bf83e65a44f7808eb398d0",
@@ -3190,6 +3210,12 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/L2.exe"
                   },
                   {
+                      "path":  "system-en/L2.ini",
+                      "size":  5296,
+                      "sha256":  "a6ec1b522abd504a350499f168794312f70006431920941d1f63660ec9245f4d",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/L2.ini"
+                  },
+                  {
                       "path":  "system-en/l2.int",
                       "size":  143,
                       "sha256":  "0bdd555b41bd5c486db292abb945908115114ef2e407464a9c34bdac990c693f",
@@ -3280,6 +3306,12 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/LargeFont-tw.gly"
                   },
                   {
+                      "path":  "system-en/libcef.dll",
+                      "size":  131129344,
+                      "sha256":  "f7d8d36f9a694360461dfbd8f7d67017aef3622bc3e38b2f9abbb33fbc1964ed",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-10/f7d8d36f9a694360461dfbd8f7d67017aef3622bc3e38b2f9abbb33fbc1964ed-libcef.dll"
+                  },
+                  {
                       "path":  "system-en/libEGL.dll",
                       "size":  332288,
                       "sha256":  "9e6b028c4c96c5d94c480e49a3ce88947ee586dc05004c64a808689bc0d79845",
@@ -3296,6 +3328,12 @@
                       "size":  5855232,
                       "sha256":  "1eeedec4ae71a6d019ec74a6dad8089ef886399b0092a47991ba8fc97f0862f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/libGLESv2.dll"
+                  },
+                  {
+                      "path":  "system-en/Lineage2JP.ini",
+                      "size":  1147,
+                      "sha256":  "6fad961d7dc218feffcf78673ccb92b4979c31eade285ec79bde809b9dbf40c6",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Lineage2JP.ini"
                   },
                   {
                       "path":  "system-en/Lineage2MultilangFont.ttf",
@@ -3604,6 +3642,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/ogg.dll"
                   },
                   {
+                      "path":  "system-en/Option.ini",
+                      "size":  3179,
+                      "sha256":  "11e52fa95451a4151a37fe8b838a896060576f110c315be8f06463c25ad90dbe",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Option.ini"
+                  },
+                  {
                       "path":  "system-en/plugins/NPSWF32_16_0_0_257.dll",
                       "size":  16844464,
                       "sha256":  "60e1b5314cd3184b6154f11c2575342d3cfeeba6d94902ae0a4db14a26bdb29f",
@@ -3760,10 +3805,23 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/TimeEnv7.int"
                   },
                   {
+                      "path":  "system-en/TTFontInfo.ini",
+                      "size":  775,
+                      "sha256":  "f9d8bc7b9d93897f4b60bc929af28f77ed4f0a04f519a73069d476461afd8cb4",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/TTFontInfo.ini"
+                  },
+                  {
                       "path":  "system-en/UDebugMenu.u",
                       "size":  183856,
                       "sha256":  "260c5556bb03d8d3d753823cd8aa6a90b78c4d888bc99e1d45cb7eb430e798f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/UDebugMenu.u"
+                  },
+                  {
+                      "path":  "system-en/UIDEV.ini",
+                      "size":  171,
+                      "sha256":  "fc021833baa06300290154eaaf2ef376e7e1015a3a7272befb4f33ad301a67eb",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/UIDEV.ini"
                   },
                   {
                       "path":  "system-en/UIStats.int",
@@ -3776,6 +3834,13 @@
                       "size":  196,
                       "sha256":  "b58ead21d6a67c835dd516812db8cb826a43d15f677d9213778d56cd0b676ce6",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/UISystem.int"
+                  },
+                  {
+                      "path":  "system-en/User.ini",
+                      "size":  6064,
+                      "sha256":  "f9d87207fda67944d56d4cdbbd230e16e89a9549a621d0832cd94cc24660520e",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/User.ini"
                   },
                   {
                       "path":  "system-en/UWindow.u",
@@ -3862,6 +3927,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Window.int"
                   },
                   {
+                      "path":  "system-en/WindowsInfo.ini",
+                      "size":  4753,
+                      "sha256":  "c740c50e36595bcc870b39c882028b7939ace3dbbdece0804845b93c729fe9dc",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/WindowsInfo.ini"
+                  },
+                  {
                       "path":  "system-en/WinDrv.dll",
                       "size":  1907200,
                       "sha256":  "4c0cd000fdd253bc60ffd16d893f77b29a8f7e03396a59b568a8de87f5c16be6",
@@ -3932,6 +4004,12 @@
                       "size":  20610120,
                       "sha256":  "4be9f9449603808bebcaded59bc562fd82425c95c3907d624ab91231316ab6d3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Awesomium.dll"
+                  },
+                  {
+                      "path":  "system-ru/AwesomiumProcess/AwesomiumProcess.exe",
+                      "size":  453944,
+                      "sha256":  "05fb5fe785cbf16ab0e835dc8ec7fbbb4078d6521a980c93ab21d3a8190093f0",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/AwesomiumProcess/AwesomiumProcess.exe"
                   },
                   {
                       "path":  "system-ru/bb.dll",
@@ -4028,6 +4106,13 @@
                       "size":  622967,
                       "sha256":  "d8ceb99376688ab15eb4a9142750f9753d9f01df642dd17829bbb6edb261cfc9",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/cef_200_percent.pak"
+                  },
+                  {
+                      "path":  "system-ru/chatfilter.ini",
+                      "size":  3132,
+                      "sha256":  "e6922d0e4dfd0da10a21216982c121c403b135ace7c56b01cfadb20548ecce17",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/chatfilter.ini"
                   },
                   {
                       "path":  "system-ru/chrome_100_percent.pak",
@@ -4228,6 +4313,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Hair.int"
                   },
                   {
+                      "path":  "system-ru/HardWare.ini",
+                      "size":  417,
+                      "sha256":  "88647e58c06bbc32fa3c430d6755729a08900891374fe3600b0fe68247d631cf",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/HardWare.ini"
+                  },
+                  {
                       "path":  "system-ru/icudt.dll",
                       "size":  9957960,
                       "sha256":  "455b4341012dd3916920456580ae1ea4ea28528876bf83e65a44f7808eb398d0",
@@ -4342,6 +4434,12 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/L2.exe"
                   },
                   {
+                      "path":  "system-ru/L2.ini",
+                      "size":  5296,
+                      "sha256":  "a6ec1b522abd504a350499f168794312f70006431920941d1f63660ec9245f4d",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/L2.ini"
+                  },
+                  {
                       "path":  "system-ru/l2.int",
                       "size":  143,
                       "sha256":  "0bdd555b41bd5c486db292abb945908115114ef2e407464a9c34bdac990c693f",
@@ -4432,6 +4530,12 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/LargeFont-tw.gly"
                   },
                   {
+                      "path":  "system-ru/libcef.dll",
+                      "size":  131129344,
+                      "sha256":  "f7d8d36f9a694360461dfbd8f7d67017aef3622bc3e38b2f9abbb33fbc1964ed",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-10/f7d8d36f9a694360461dfbd8f7d67017aef3622bc3e38b2f9abbb33fbc1964ed-libcef.dll"
+                  },
+                  {
                       "path":  "system-ru/libEGL.dll",
                       "size":  332288,
                       "sha256":  "9e6b028c4c96c5d94c480e49a3ce88947ee586dc05004c64a808689bc0d79845",
@@ -4448,6 +4552,12 @@
                       "size":  5855232,
                       "sha256":  "1eeedec4ae71a6d019ec74a6dad8089ef886399b0092a47991ba8fc97f0862f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/libGLESv2.dll"
+                  },
+                  {
+                      "path":  "system-ru/Lineage2JP.ini",
+                      "size":  1147,
+                      "sha256":  "6fad961d7dc218feffcf78673ccb92b4979c31eade285ec79bde809b9dbf40c6",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Lineage2JP.ini"
                   },
                   {
                       "path":  "system-ru/Lineage2MultilangFont.ttf",
@@ -4754,6 +4864,13 @@
                       "size":  61440,
                       "sha256":  "7f9106a66c9999754041ab5523bfcf4d099f263f51f15ab69200558c60cb1a23",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ogg.dll"
+                  },
+                  {
+                      "path":  "system-ru/Option.ini",
+                      "size":  3179,
+                      "sha256":  "ab73949ce382ecfc7efd12f39f10756d83a44d423d0639a55eda11d410b044d8",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Option.ini"
                   },
                   {
                       "path":  "system-ru/plugins/NPSWF32_16_0_0_257.dll",
@@ -7636,10 +7753,23 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/TimeEnv7.int"
                   },
                   {
+                      "path":  "system-ru/TTFontInfo.ini",
+                      "size":  775,
+                      "sha256":  "f9d8bc7b9d93897f4b60bc929af28f77ed4f0a04f519a73069d476461afd8cb4",
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/TTFontInfo.ini"
+                  },
+                  {
                       "path":  "system-ru/UDebugMenu.u",
                       "size":  183856,
                       "sha256":  "260c5556bb03d8d3d753823cd8aa6a90b78c4d888bc99e1d45cb7eb430e798f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UDebugMenu.u"
+                  },
+                  {
+                      "path":  "system-ru/UIDEV.ini",
+                      "size":  171,
+                      "sha256":  "56794e5e500bad746488cee49fc005c53a1d0e66d77679b54c2a5914033e17c3",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UIDEV.ini"
                   },
                   {
                       "path":  "system-ru/UIStats.int",
@@ -7652,6 +7782,13 @@
                       "size":  196,
                       "sha256":  "b58ead21d6a67c835dd516812db8cb826a43d15f677d9213778d56cd0b676ce6",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UISystem.int"
+                  },
+                  {
+                      "path":  "system-ru/User.ini",
+                      "size":  6064,
+                      "sha256":  "f9d87207fda67944d56d4cdbbd230e16e89a9549a621d0832cd94cc24660520e",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/User.ini"
                   },
                   {
                       "path":  "system-ru/UWindow.u",
@@ -7736,6 +7873,13 @@
                       "size":  2334,
                       "sha256":  "5d4576fdf5bc856b477ccd7ba216c992c26d487c4fcde54064f057b95488f6bb",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Window.int"
+                  },
+                  {
+                      "path":  "system-ru/WindowsInfo.ini",
+                      "size":  4517,
+                      "sha256":  "d628e27221efa7903315fef2efcf1f6a13f2a820f705bb116a8b1d583c65c4b2",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/WindowsInfo.ini"
                   },
                   {
                       "path":  "system-ru/WinDrv.dll",
