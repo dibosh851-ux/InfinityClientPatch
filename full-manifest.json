@@ -1,5 +1,5 @@
 {
-  "version": "patch-2026.11.03.0950",
+  "version": "patch-2026.11.03.1920",
   "format": 2,
   "minimumLauncherVersion": 3,
   "files": [
@@ -24949,7 +24949,7 @@
     {
       "path": "system-en/e/EtcItemgrp.dat",
       "size": 187312,
-      "sha256": "82e4900dd8857ebbf3455b9a719a34eb43cfbb30c0ed30eb9d9de5cce3509a4c",
+      "sha256": "d282b435843bc87230f45295ae2c0a71b0eafd60438aba26d66bdac92b3b36fa",
       "bundle": "system-en-7-00"
     },
     {
@@ -25315,7 +25315,7 @@
     {
       "path": "system-en/e/ItemName-e.dat",
       "size": 1398320,
-      "sha256": "fef7c8a991a8622a258fe1195d385fc8a89db276184b5afcefcd2e8e00afea78",
+      "sha256": "f20fcd86102980b8d140025ec508966e5474b2f162615c2c348408486fd4c955",
       "bundle": "system-en-6-00"
     },
     {
@@ -25333,7 +25333,7 @@
     {
       "path": "system-en/e/ItemStatData.dat",
       "size": 305200,
-      "sha256": "e88574dcd3a15643fb05ce94890a772d5b0a2575465e8eba02dddd2d282d2691",
+      "sha256": "2d10ae561cf806936ef776e0e9e0f2a17eeaa35229bf6db12023ccf0116ad132",
       "bundle": "system-en-8-00"
     },
     {
@@ -25765,7 +25765,7 @@
     {
       "path": "system-en/e/Npcgrp.dat",
       "size": 331568,
-      "sha256": "a10fc81a42a63d214ee97cd4ac97bf53ef416a7770298cd29a5cd389ce024e27",
+      "sha256": "00f185ccb1342ba495e1369c3f602d04b696a78ddb0b972ef941d7806e3a8bf6",
       "bundle": "system-en-2-00"
     },
     {
@@ -25783,7 +25783,7 @@
     {
       "path": "system-en/e/NpcName-e.dat",
       "size": 122544,
-      "sha256": "57d12cf4cf03a54cbd7d7fada748b90e2918d20a9b316f0875d10e2545d00ff6",
+      "sha256": "ce954793d1d817bff70c6c17f376733bb40bbaec6ac6a8b9cb85a0fd1dccd7c1",
       "bundle": "system-en-b-00"
     },
     {
@@ -26365,7 +26365,7 @@
     {
       "path": "system-en/e/Skillgrp.dat",
       "size": 985392,
-      "sha256": "050955a317a19b94deedd729be76e81eac240fca10f71b9588e3389ee3ab0cf0",
+      "sha256": "530880aa2d6b18443da6f7e28587c0f4540fb669647ea75b280ac5d7461148d2",
       "bundle": "system-en-7-00"
     },
     {
@@ -26382,8 +26382,8 @@
     },
     {
       "path": "system-en/e/SkillName-e.dat",
-      "size": 1923632,
-      "sha256": "aeb215e2debe6742412f3f9b137036915b0564fcdef1a9138f4a4b905501d26c",
+      "size": 1924400,
+      "sha256": "d685d154b1608b88d35957504054a9c24cade809a824566561cc1f9d96756dcb",
       "bundle": "system-en-6-00"
     },
     {
@@ -28141,7 +28141,7 @@
     {
       "path": "system-ru/HardWare.ini",
       "size": 417,
-      "sha256": "ce40cd5b2699a82bf79de7fc3fe12f06d327f753f5f555b963346cf572e27117",
+      "sha256": "b2ec858213c938944632a108fb97c241df9fdc466b6ff31c73c0676310ceb780",
       "preserveExisting": true,
       "bundle": "system-ru-d-00"
     },
@@ -28195,8 +28195,8 @@
     },
     {
       "path": "system-ru/InfinityLobbyVitalityTrace.ini",
-      "size": 327,
-      "sha256": "308f7b1bd619598241cb3b1c4c33928ad98085662b3e5d2b2faba8a9abcdeefd",
+      "size": 326,
+      "sha256": "98086b6111e326819d06a8fc72c7789ded616c7eb0edf8e94964ad48feead83a",
       "bundle": "system-ru-a-00"
     },
     {
@@ -28694,7 +28694,7 @@
     {
       "path": "system-ru/Option.ini",
       "size": 3180,
-      "sha256": "d7d9b132956694dbbf857db6581290162cffd2340e4181e9fc7f4600d846640b",
+      "sha256": "891cec255f03ff42ec54c9075c085cafa9d70f0ac632fb807c012be453648054",
       "preserveExisting": true,
       "bundle": "system-ru-c-00"
     },
@@ -29571,7 +29571,7 @@
     {
       "path": "system-ru/ru/EtcItemgrp.dat",
       "size": 187440,
-      "sha256": "f4c21c83b926ffe58ab15f12057135f5f7b64160cd9ba323e4eddd5d4d76185c",
+      "sha256": "7e7fd1fffd6d2e0990da49b4414a8b9d86b14797c053d4916659e1e494faac55",
       "bundle": "system-ru-3-00"
     },
     {
@@ -29937,7 +29937,7 @@
     {
       "path": "system-ru/ru/ItemName-ru.dat",
       "size": 1603376,
-      "sha256": "4d60271cf17f97179b2463c8af25c79236e5bc931faffc9c8f47e9969a894580",
+      "sha256": "3268dada712376ef2ed81fa0165fcc3747c9011499486dd5042f765876d8f6af",
       "bundle": "system-ru-a-00"
     },
     {
@@ -29955,7 +29955,7 @@
     {
       "path": "system-ru/ru/ItemStatData.dat",
       "size": 305200,
-      "sha256": "e88574dcd3a15643fb05ce94890a772d5b0a2575465e8eba02dddd2d282d2691",
+      "sha256": "2d10ae561cf806936ef776e0e9e0f2a17eeaa35229bf6db12023ccf0116ad132",
       "bundle": "system-ru-1-00"
     },
     {
@@ -30387,7 +30387,7 @@
     {
       "path": "system-ru/ru/Npcgrp.dat",
       "size": 331696,
-      "sha256": "448dd46761e8291da6e0ccbfc06ccde4fa4dab64b204d327a211b93d48143d6e",
+      "sha256": "e4ed720ffe1ca119466d04253409b8a704bc2a7d3083ce4d0db98457c9140bb7",
       "bundle": "system-ru-9-00"
     },
     {
@@ -30405,7 +30405,7 @@
     {
       "path": "system-ru/ru/NpcName-ru.dat",
       "size": 144048,
-      "sha256": "ed3a19151ab436b2fc75ad42827b6802aa05aec9ce320b50c4e1ae4669906e69",
+      "sha256": "58bd4472cc990d24d1ce4fefe933c3c3f7ce9a07c6ffd32ec4c4665e558340b9",
       "bundle": "system-ru-5-00"
     },
     {
@@ -30986,8 +30986,8 @@
     },
     {
       "path": "system-ru/ru/Skillgrp.dat",
-      "size": 985264,
-      "sha256": "09a31acd91ffe8660a6ce5a29f2efc34ceb37bbea83937c9ebc4282c0ffcb3c6",
+      "size": 985392,
+      "sha256": "ba685155e31f209e466b549378143c2dcfcd9697394d4d5d3318f7836b056c62",
       "bundle": "system-ru-9-00"
     },
     {
@@ -31004,8 +31004,8 @@
     },
     {
       "path": "system-ru/ru/SkillName-ru.dat",
-      "size": 2326064,
-      "sha256": "baf7f395c954a59c78d7312732c540e695e07f4cd7391ea1112cb31f4a6b8794",
+      "size": 2326576,
+      "sha256": "f28c40d0b857d362308fb3ea138b42c9988b63f90d11147c4fb94191789e57dc",
       "bundle": "system-ru-c-00"
     },
     {
@@ -31600,7 +31600,7 @@
     {
       "path": "system-ru/UIDEV.ini",
       "size": 171,
-      "sha256": "2f750743322089eab6f21d464701c76ec11b5d877937c4f82bc0a2d174c2668e",
+      "sha256": "89dfb8e405adb2db90efd1f2ae5090a175430e104e3ec1ee17576b438592ad60",
       "preserveExisting": true,
       "bundle": "system-ru-2-00"
     },
@@ -31709,8 +31709,8 @@
     },
     {
       "path": "system-ru/WindowsInfo.ini",
-      "size": 4805,
-      "sha256": "bf4f6b044a07a0bcab7a4bc1d583db86b01a5835081fdce677be1d9f913f16e8",
+      "size": 4581,
+      "sha256": "52334ffc028be720e1e07d17bdf629b9dae99d9116b271efcf0732d29da37639",
       "preserveExisting": true,
       "bundle": "system-ru-c-00"
     },
@@ -51453,10 +51453,10 @@
     },
     {
       "id": "system-en-2-00",
-      "sha256": "73e65add34db6964fb357ff4b42c2a3d50d1fa70afd88875164c4c5fbeba2600",
+      "sha256": "4fe34c1ef1118c3d1c66e34b74a814be7343b2e10d145b9c3ff5f162b07f6f06",
       "size": 18020576,
       "fileCount": 41,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/73e65add34db6964fb357ff4b42c2a3d50d1fa70afd88875164c4c5fbeba2600-client-system-en-2-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/4fe34c1ef1118c3d1c66e34b74a814be7343b2e10d145b9c3ff5f162b07f6f06-client-system-en-2-00.zip"
     },
     {
       "id": "system-en-3-00",
@@ -51481,24 +51481,24 @@
     },
     {
       "id": "system-en-6-00",
-      "sha256": "836718bbd26867ef03467ea719eb40b81f6d55be328791b016c7846d756081e2",
-      "size": 12888270,
+      "sha256": "9fe0a23e8e1245aedd16f4e671e8d23183778e3eb9e174ad0f5a3102fc947b4c",
+      "size": 12889342,
       "fileCount": 44,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/836718bbd26867ef03467ea719eb40b81f6d55be328791b016c7846d756081e2-client-system-en-6-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/9fe0a23e8e1245aedd16f4e671e8d23183778e3eb9e174ad0f5a3102fc947b4c-client-system-en-6-00.zip"
     },
     {
       "id": "system-en-7-00",
-      "sha256": "3eb9649f2a82d565b4ef4b3ead863a69b561200b6f22abbc5ef6c1a10d9bc75d",
+      "sha256": "9cd53f0106b0b1d577647210b1997961be72bbe055fe9cfb9741f665e918ab53",
       "size": 14143034,
       "fileCount": 33,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/3eb9649f2a82d565b4ef4b3ead863a69b561200b6f22abbc5ef6c1a10d9bc75d-client-system-en-7-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/9cd53f0106b0b1d577647210b1997961be72bbe055fe9cfb9741f665e918ab53-client-system-en-7-00.zip"
     },
     {
       "id": "system-en-8-00",
-      "sha256": "50878d5c79c97823c838f731242d4e03232d6fc2c5d2c94f0f92c45ac1c05d50",
+      "sha256": "3023a2f9bb00705b1888ae4ee325a8fd16fab1bfffed911f81fb872dd7fd8fe9",
       "size": 13655915,
       "fileCount": 40,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/50878d5c79c97823c838f731242d4e03232d6fc2c5d2c94f0f92c45ac1c05d50-client-system-en-8-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/3023a2f9bb00705b1888ae4ee325a8fd16fab1bfffed911f81fb872dd7fd8fe9-client-system-en-8-00.zip"
     },
     {
       "id": "system-en-9-00",
@@ -51516,10 +51516,10 @@
     },
     {
       "id": "system-en-b-00",
-      "sha256": "679c7fb3227512cd28ec7d8d283517796fe03f75e6c9fbe8bb6350a7e2995a62",
+      "sha256": "fd413d2356df1fc878890512ccc6e0546e9dac2ab55e665fc55ae402c29189b6",
       "size": 13958805,
       "fileCount": 50,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/679c7fb3227512cd28ec7d8d283517796fe03f75e6c9fbe8bb6350a7e2995a62-client-system-en-b-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/fd413d2356df1fc878890512ccc6e0546e9dac2ab55e665fc55ae402c29189b6-client-system-en-b-00.zip"
     },
     {
       "id": "system-en-c-00",
@@ -51558,24 +51558,24 @@
     },
     {
       "id": "system-ru-1-00",
-      "sha256": "6e3538a72ac119be5138a27fdaf54117c5bb31d803af591304beff77aa111d7e",
+      "sha256": "2fe919ae10b65ec95dfd58327c2bfc3df70272332558bd2bb5b73dac9b0489e0",
       "size": 76633150,
       "fileCount": 46,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/6e3538a72ac119be5138a27fdaf54117c5bb31d803af591304beff77aa111d7e-client-system-ru-1-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/2fe919ae10b65ec95dfd58327c2bfc3df70272332558bd2bb5b73dac9b0489e0-client-system-ru-1-00.zip"
     },
     {
       "id": "system-ru-2-00",
-      "sha256": "38c547b4f6ead7893b2a519eac3eb32304e91d1484db6b7facb2692d0a97f8e3",
-      "size": 2441794,
+      "sha256": "d468efcf08dab6f2ab0b900dff361b7ffd72a95f112ae92e3a5e4878c738d951",
+      "size": 2441795,
       "fileCount": 47,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/38c547b4f6ead7893b2a519eac3eb32304e91d1484db6b7facb2692d0a97f8e3-client-system-ru-2-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/d468efcf08dab6f2ab0b900dff361b7ffd72a95f112ae92e3a5e4878c738d951-client-system-ru-2-00.zip"
     },
     {
       "id": "system-ru-3-00",
-      "sha256": "99014677f0bdf788c3bdff281b8ae0131615518d557b70d1bb48af06bd7912b1",
+      "sha256": "a2f6067d3dc3653192184be7ebc3b9772534fbcc067a505c9b2d44a06f69666e",
       "size": 11239817,
       "fileCount": 47,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/99014677f0bdf788c3bdff281b8ae0131615518d557b70d1bb48af06bd7912b1-client-system-ru-3-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/a2f6067d3dc3653192184be7ebc3b9772534fbcc067a505c9b2d44a06f69666e-client-system-ru-3-00.zip"
     },
     {
       "id": "system-ru-4-00",
@@ -51586,10 +51586,10 @@
     },
     {
       "id": "system-ru-5-00",
-      "sha256": "1d1a469c53cba56354587fe20501537661f61bea1076ee6ce370a46ce1692b44",
+      "sha256": "dd631827f1c1dabecfbb901f537ae8a659724e8a84ae062545569cb5cca94dd9",
       "size": 10677450,
       "fileCount": 50,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/1d1a469c53cba56354587fe20501537661f61bea1076ee6ce370a46ce1692b44-client-system-ru-5-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/dd631827f1c1dabecfbb901f537ae8a659724e8a84ae062545569cb5cca94dd9-client-system-ru-5-00.zip"
     },
     {
       "id": "system-ru-6-00",
@@ -51614,17 +51614,17 @@
     },
     {
       "id": "system-ru-9-00",
-      "sha256": "5f66ba07886db2af378554d3f2b67cbe614ca29bf2ab285fe4ce56b387309686",
-      "size": 6022119,
+      "sha256": "91679daed19d2afedcd53d0b847f68d5194d8f6618c4109b53eb24eaa6b499aa",
+      "size": 6022247,
       "fileCount": 37,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/5f66ba07886db2af378554d3f2b67cbe614ca29bf2ab285fe4ce56b387309686-client-system-ru-9-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/91679daed19d2afedcd53d0b847f68d5194d8f6618c4109b53eb24eaa6b499aa-client-system-ru-9-00.zip"
     },
     {
       "id": "system-ru-a-00",
-      "sha256": "8e68d20dda311bb4579f9aae634a4c8971b4955959ffa6b25bdb6c3723b3d8ff",
-      "size": 18581921,
+      "sha256": "40ed4fea4078671bf72dfd8a9ed3842ad18ee5a7e1c850d492797c63e5dadcdb",
+      "size": 18581917,
       "fileCount": 43,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/8e68d20dda311bb4579f9aae634a4c8971b4955959ffa6b25bdb6c3723b3d8ff-client-system-ru-a-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/40ed4fea4078671bf72dfd8a9ed3842ad18ee5a7e1c850d492797c63e5dadcdb-client-system-ru-a-00.zip"
     },
     {
       "id": "system-ru-b-00",
@@ -51635,17 +51635,17 @@
     },
     {
       "id": "system-ru-c-00",
-      "sha256": "0e146154041a962f742839ca2f402efaa56e3012f9b483256a369bc3d85e302b",
-      "size": 10534155,
+      "sha256": "864e89b9b04821283a15e64e5e6bf831c0f7867840e3b27253e6e8f9e4ee64f2",
+      "size": 10534473,
       "fileCount": 39,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/0e146154041a962f742839ca2f402efaa56e3012f9b483256a369bc3d85e302b-client-system-ru-c-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/864e89b9b04821283a15e64e5e6bf831c0f7867840e3b27253e6e8f9e4ee64f2-client-system-ru-c-00.zip"
     },
     {
       "id": "system-ru-d-00",
-      "sha256": "d306939dac5be8b9af1d8ebf0e618573daffddc75f179b9167f2b9909ac5cf3c",
+      "sha256": "4c21696c3f5510203f9b8f220b2032b259f51e1566c6a554a3cef5c9a3d989fe",
       "size": 12525819,
       "fileCount": 36,
-      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/d306939dac5be8b9af1d8ebf0e618573daffddc75f179b9167f2b9909ac5cf3c-client-system-ru-d-00.zip"
+      "url": "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/full-client-2026-11/4c21696c3f5510203f9b8f220b2032b259f51e1566c6a554a3cef5c9a3d989fe-client-system-ru-d-00.zip"
     },
     {
       "id": "system-ru-e-00",
