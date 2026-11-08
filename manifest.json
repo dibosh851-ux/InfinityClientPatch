@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.11.07.2235",
-    "generatedAt":  "2026-11-07T22:36:09",
+    "version":  "patch-2026.11.08.2237",
+    "generatedAt":  "2026-11-08T22:37:13",
     "root":  "files",
     "files":  [
                   {
@@ -277,7 +277,7 @@
                   {
                       "path":  "system-en/e/AbnormalDefaultEffect.dat",
                       "size":  12336,
-                      "sha256":  "e8d4d51d2658a4397e203ad30641c421761490cee32e13773daa9811f605b038",
+                      "sha256":  "5d33cc589640067e9d99802de3f0af5980e01fbf97a915ac1a8e869a0c62343c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/AbnormalDefaultEffect.dat"
                   },
                   {
@@ -2329,7 +2329,7 @@
                   {
                       "path":  "system-en/e/Recipe.dat",
                       "size":  55472,
-                      "sha256":  "44d92beab46b362043af3ff7ee34b47b49d43de0352026e91a4a5f75c7c5f9ba",
+                      "sha256":  "873c7eedd8e11cef770011ed0261ff476ee320231bafe67c9fa167a96b9dc37a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Recipe.dat"
                   },
                   {
@@ -4315,7 +4315,7 @@
                   {
                       "path":  "system-ru/HardWare.ini",
                       "size":  417,
-                      "sha256":  "a4d50c9f8dc81a6a7963fc2d7c74333af29e1305d21959d886f3eb2266cbd2c0",
+                      "sha256":  "0f7351c1cd4412ca672bff97674f2dd64732d1223cfee7809f4d2b557c0f5f90",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/HardWare.ini"
                   },
@@ -4369,8 +4369,8 @@
                   },
                   {
                       "path":  "system-ru/InfinityLobbyVitalityTrace.ini",
-                      "size":  326,
-                      "sha256":  "0172eb9d890e0c5c2b587f0f93464fbde1c1b4081b572dc8d602b628fc82e625",
+                      "size":  327,
+                      "sha256":  "be841e04cdd37d33ad54d79f82a793482ce557237514d86b26f0d3a3058082ea",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityLobbyVitalityTrace.ini"
                   },
                   {
@@ -4393,8 +4393,8 @@
                   },
                   {
                       "path":  "system-ru/InfinityVitality.ini",
-                      "size":  158,
-                      "sha256":  "d9a7e7baa38a3da3b0fc46522686963a2e7ae8456824021ab5112b918806b384",
+                      "size":  176,
+                      "sha256":  "08d2e3a3b0df48dffe27b748fa2d0bb58b41c9b69d27470c1ab5f96a2d472f5a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityVitality.ini"
                   },
                   {
@@ -4867,8 +4867,8 @@
                   },
                   {
                       "path":  "system-ru/Option.ini",
-                      "size":  3180,
-                      "sha256":  "d31931ac92c058486fdbeb6a9833c066bc1943aa63fce0a740b43620bda631cc",
+                      "size":  3179,
+                      "sha256":  "caca1c2795bcc821a5fa3b0e24b02a66508e508204d62601010ed1862ac3ef9d",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Option.ini"
                   },
@@ -4899,7 +4899,7 @@
                   {
                       "path":  "system-ru/ru/AbnormalDefaultEffect.dat",
                       "size":  12336,
-                      "sha256":  "e8d4d51d2658a4397e203ad30641c421761490cee32e13773daa9811f605b038",
+                      "sha256":  "5d33cc589640067e9d99802de3f0af5980e01fbf97a915ac1a8e869a0c62343c",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/AbnormalDefaultEffect.dat"
                   },
                   {
@@ -6951,7 +6951,7 @@
                   {
                       "path":  "system-ru/ru/Recipe.dat",
                       "size":  55472,
-                      "sha256":  "44d92beab46b362043af3ff7ee34b47b49d43de0352026e91a4a5f75c7c5f9ba",
+                      "sha256":  "873c7eedd8e11cef770011ed0261ff476ee320231bafe67c9fa167a96b9dc37a",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Recipe.dat"
                   },
                   {
@@ -7774,7 +7774,7 @@
                   {
                       "path":  "system-ru/UIDEV.ini",
                       "size":  172,
-                      "sha256":  "ead215b3b92241e80bb9839a82f6fdad0e00d55f01aa9451499701585f3f3710",
+                      "sha256":  "827a1aebc056b24fc60c695065af580f67ba3664d3a594df588c6bf58797694d",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UIDEV.ini"
                   },
@@ -7883,8 +7883,8 @@
                   },
                   {
                       "path":  "system-ru/WindowsInfo.ini",
-                      "size":  4581,
-                      "sha256":  "a77d36c18b05af51d06d03f4c31002b7a818fb8eaad1abd580c102a9203f5529",
+                      "size":  4807,
+                      "sha256":  "08fcdd2ec128a246b795ad10d97db87ddb8850190b593662e9a248d67dac6b38",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/WindowsInfo.ini"
                   },
