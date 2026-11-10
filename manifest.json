@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.11.09.1009",
-    "generatedAt":  "2026-11-09T10:09:59",
+    "version":  "patch-2026.11.11.0106",
+    "generatedAt":  "2026-11-11T01:06:32",
     "root":  "files",
     "files":  [
                   {
@@ -2539,7 +2539,7 @@
                   {
                       "path":  "system-en/e/Skillgrp.dat",
                       "size":  985264,
-                      "sha256":  "8049a02193f92dfa31e7d4370b241945ba85dace012a5c562c3344c03544c022",
+                      "sha256":  "e436e8a251b9dceff5a2e853c17dbdb5b0ba25cf2fc6299bd315428d116586a0",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/Skillgrp.dat"
                   },
                   {
@@ -2568,8 +2568,8 @@
                   },
                   {
                       "path":  "system-en/e/SkillName-e.dat",
-                      "size":  1923888,
-                      "sha256":  "68159ca2c273b3cb7d94899ff80441c9d368c094dacea8a23454bc5a73a0af13",
+                      "size":  1923760,
+                      "sha256":  "b543a29e29962f999f76c05f3cdfb285e3960502bf618c17e8bddfa664e7a5cb",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/SkillName-e.dat"
                   },
                   {
@@ -3181,14 +3181,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  55005498,
-                      "sha256":  "140a4674d7e9b56a42d9ead95a9e94ab27debb165e41f69c08935706a3915573",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/140a4674d7e9b56a42d9ead95a9e94ab27debb165e41f69c08935706a3915573-Interface.u"
+                      "size":  55230283,
+                      "sha256":  "d43833459c522862774269871210587b2e1285dd65018f6f8e47732e2799bea2",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/d43833459c522862774269871210587b2e1285dd65018f6f8e47732e2799bea2-Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7330372,
-                      "sha256":  "2a475c8a351c5a892e3ca165b9bfc49a9111106fd939d04cd748f6486cd479a1",
+                      "size":  7380965,
+                      "sha256":  "5438edf72cf34febfcbb2dc7811cbb919f9ea259f945807168b631b4bc5fa179",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4321,7 +4321,7 @@
                   {
                       "path":  "system-ru/HardWare.ini",
                       "size":  417,
-                      "sha256":  "c2b92cd1d191bd48987a5653af9ec494cf26a9b0b43b0c30bac90b6c4e25510c",
+                      "sha256":  "b0df210d40911632482064fe8f8e5f59ced92aacef80936e29ec2d5af06a9ad3",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/HardWare.ini"
                   },
@@ -4351,8 +4351,8 @@
                   },
                   {
                       "path":  "system-ru/infinity/inf.utx",
-                      "size":  19188018,
-                      "sha256":  "d157201f475ca684cc82697a7bee9e5ed3548019f18b2fb38de486a3d9b2f61c",
+                      "size":  19275659,
+                      "sha256":  "054167817405367087ae2d332da87cf6d23e3da4b5cd6537f69c733b8829fb40",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/infinity/inf.utx"
                   },
                   {
@@ -4381,8 +4381,8 @@
                   },
                   {
                       "path":  "system-ru/InfinityLobbyVitalityTrace.ini",
-                      "size":  326,
-                      "sha256":  "32208f2f624a9f9fcf1c5018b5ccf792de9a64377e0b400772dfc78c16b5ce9f",
+                      "size":  311,
+                      "sha256":  "fc6e332490d56d8688865be209551463deb9f68e9b56aa8c6bf8db89f6b0649d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityLobbyVitalityTrace.ini"
                   },
                   {
@@ -4406,19 +4406,19 @@
                   {
                       "path":  "system-ru/InfinityVitality.ini",
                       "size":  212,
-                      "sha256":  "0084a05e9671b318c9824232695a91b22830642c74c420de9494514326b5dc24",
+                      "sha256":  "f80fc0139f463cab2a2672ec47beb681e1c5113ae64d76d09ec03ade0e006db8",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityVitality.ini"
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  55005498,
-                      "sha256":  "140a4674d7e9b56a42d9ead95a9e94ab27debb165e41f69c08935706a3915573",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/140a4674d7e9b56a42d9ead95a9e94ab27debb165e41f69c08935706a3915573-Interface.u"
+                      "size":  55230283,
+                      "sha256":  "d43833459c522862774269871210587b2e1285dd65018f6f8e47732e2799bea2",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/d43833459c522862774269871210587b2e1285dd65018f6f8e47732e2799bea2-Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7330372,
-                      "sha256":  "2a475c8a351c5a892e3ca165b9bfc49a9111106fd939d04cd748f6486cd479a1",
+                      "size":  7380965,
+                      "sha256":  "5438edf72cf34febfcbb2dc7811cbb919f9ea259f945807168b631b4bc5fa179",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -4880,7 +4880,7 @@
                   {
                       "path":  "system-ru/Option.ini",
                       "size":  3179,
-                      "sha256":  "539776e1e4dcc53419ce7351216e263643e2fa1c8de782d6aebb68712b1d33ba",
+                      "sha256":  "49c187961d7eb2a9113cc4e9a0aa347ff1a5a8cdda97758f34cd541af04dcf1f",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Option.ini"
                   },
@@ -7173,7 +7173,7 @@
                   {
                       "path":  "system-ru/ru/Skillgrp.dat",
                       "size":  985264,
-                      "sha256":  "6c15cb85ff803baa5f9c97c09305e798d852332b54e8021e0c280c32c1db517d",
+                      "sha256":  "917bd71a073d8510be211abbfb646125e06a21447c107518c630a222ebe4b45b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/Skillgrp.dat"
                   },
                   {
@@ -7202,8 +7202,8 @@
                   },
                   {
                       "path":  "system-ru/ru/SkillName-ru.dat",
-                      "size":  2326576,
-                      "sha256":  "e18c4ac7a07e3e01cb157a0fbb766714a5cd5022fcd4a15ecc68efa8ffbc4312",
+                      "size":  2326704,
+                      "sha256":  "36413cc47f26c2af077800a2db4580fd55acb92af2145ca90d862a05395a12c3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/SkillName-ru.dat"
                   },
                   {
@@ -7627,6 +7627,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ZoneName-ru.dat"
                   },
                   {
+                      "path":  "system-ru/Running.ini",
+                      "size":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Running.ini"
+                  },
+                  {
                       "path":  "system-ru/SmallFont.gly",
                       "size":  181780,
                       "sha256":  "a36cae0518ab93f9f8293ed03a8ee561f25b75766d04dd641fa2e8059271f711",
@@ -7779,7 +7786,7 @@
                   {
                       "path":  "system-ru/UIDEV.ini",
                       "size":  172,
-                      "sha256":  "b1a0488b24a85fb681ff39b94f03e2096f1a0a28202021023b8120165d027078",
+                      "sha256":  "fbabeee50c9eacae1529a737b2f9c28286446f67545f31d4efb382577431a060",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UIDEV.ini"
                   },
@@ -7888,8 +7895,8 @@
                   },
                   {
                       "path":  "system-ru/WindowsInfo.ini",
-                      "size":  4517,
-                      "sha256":  "0bf4c0c46289e47acd5cfb27c9db65b989e75de5b779d60b0dceaf0313ef7e27",
+                      "size":  4584,
+                      "sha256":  "4feda0470948da2e66a11db2a77c89b63aa79463a2845a2dd15e58c4dcf7f3fe",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/WindowsInfo.ini"
                   },
