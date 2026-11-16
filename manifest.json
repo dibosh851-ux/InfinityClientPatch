@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.11.12.2204",
-    "generatedAt":  "2026-11-12T22:04:55",
+    "version":  "patch-2026.11.16.1806",
+    "generatedAt":  "2026-11-16T18:06:21",
     "root":  "files",
     "files":  [
                   {
@@ -960,14 +960,14 @@
                   },
                   {
                       "path":  "system-en/e/EnchantedItemSkills_Classic-e.dat",
-                      "size":  8880,
-                      "sha256":  "2c5609aec03c75b287a667c03efaa2ed38694262acc0be6f934b7e94057681c1",
+                      "size":  10288,
+                      "sha256":  "e5d918945e0b6c5003bd91e40b5437265714ebce2e82d65f70948aee9327842b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EnchantedItemSkills_Classic-e.dat"
                   },
                   {
                       "path":  "system-en/e/EnchantedItemSkills-e.dat",
-                      "size":  21168,
-                      "sha256":  "e59ee37c111b94bc8907f15a6d7c1e22354cf06436177a7f1e9be3ce567b4746",
+                      "size":  21936,
+                      "sha256":  "55d3c35578e3bcff080af0f4869249519c2c8b09030425fd2729bd6288d8b5f3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/EnchantedItemSkills-e.dat"
                   },
                   {
@@ -1542,8 +1542,8 @@
                   },
                   {
                       "path":  "system-en/e/L2GameDataName.dat",
-                      "size":  749232,
-                      "sha256":  "e8835d5693bb4f43d55fab67aeb0eb7ec5490ca6b8b1edcb86f9d80c122cb055",
+                      "size":  751152,
+                      "sha256":  "e09c304dd7a5176187e7e47ffb3a6aad77ad6fb982bedb8e29286a6b736e5c16",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/e/L2GameDataName.dat"
                   },
                   {
@@ -3181,14 +3181,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  55231383,
-                      "sha256":  "d15c22919105f1c0578c5e7a26a599dc02a245257810862fdd7b1f2536572db9",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/d15c22919105f1c0578c5e7a26a599dc02a245257810862fdd7b1f2536572db9-Interface.u"
+                      "size":  55503779,
+                      "sha256":  "be355c727326c1990b69a0dca83bd2c7c72583806429d9c30cd29958244cf9f7",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/be355c727326c1990b69a0dca83bd2c7c72583806429d9c30cd29958244cf9f7-Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7382446,
-                      "sha256":  "8d6e34ec03444ae877bb6a770c27548d38a7476d0dc207075100828d793b2e53",
+                      "size":  7409438,
+                      "sha256":  "87f7cfc1ca9911238f9d4dc474787ae8ae40a3880e762cf2d80d3a33049c5bc1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4321,7 +4321,7 @@
                   {
                       "path":  "system-ru/HardWare.ini",
                       "size":  417,
-                      "sha256":  "140b7b4114d86caf53a78419fcdb618222d7f5798ac85e3711d8f1b2acf23fe2",
+                      "sha256":  "22b948f37060267ffccc3a31ce183363484f5d112ae8ff05fe6c07114d196dc5",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/HardWare.ini"
                   },
@@ -4381,8 +4381,8 @@
                   },
                   {
                       "path":  "system-ru/InfinityLobbyVitalityTrace.ini",
-                      "size":  323,
-                      "sha256":  "913f19df2452af4b8346e38aa3c57368dba9d4457c3f5b258e7fff0339af57a1",
+                      "size":  326,
+                      "sha256":  "d7fe122d9f470b96c3bd0dd59aea108b995fb564feb21fb820eb7de2db144eb3",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityLobbyVitalityTrace.ini"
                   },
                   {
@@ -4411,14 +4411,14 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  55231383,
-                      "sha256":  "d15c22919105f1c0578c5e7a26a599dc02a245257810862fdd7b1f2536572db9",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/d15c22919105f1c0578c5e7a26a599dc02a245257810862fdd7b1f2536572db9-Interface.u"
+                      "size":  55503779,
+                      "sha256":  "be355c727326c1990b69a0dca83bd2c7c72583806429d9c30cd29958244cf9f7",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/be355c727326c1990b69a0dca83bd2c7c72583806429d9c30cd29958244cf9f7-Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7382446,
-                      "sha256":  "8d6e34ec03444ae877bb6a770c27548d38a7476d0dc207075100828d793b2e53",
+                      "size":  7409438,
+                      "sha256":  "87f7cfc1ca9911238f9d4dc474787ae8ae40a3880e762cf2d80d3a33049c5bc1",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -4880,7 +4880,7 @@
                   {
                       "path":  "system-ru/Option.ini",
                       "size":  3179,
-                      "sha256":  "1128ecf970a8322bcd80d99589de15ffb2dcb62605e4d707692c535da4dbec22",
+                      "sha256":  "28e3f47f0bd5ea2a56237084d55335c536afb7d4d455662bfa14eb38c65320df",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Option.ini"
                   },
@@ -5594,14 +5594,14 @@
                   },
                   {
                       "path":  "system-ru/ru/EnchantedItemSkills_Classic-ru.dat",
-                      "size":  9008,
-                      "sha256":  "12321891555fcd6cb54162efb5a2583b3d66bc7b276a9ce898ae77934799bce4",
+                      "size":  10288,
+                      "sha256":  "33f283196968366a87c6887458a0ef399d4bfd881fcf3140804b6013eb0da97f",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EnchantedItemSkills_Classic-ru.dat"
                   },
                   {
                       "path":  "system-ru/ru/EnchantedItemSkills-ru.dat",
-                      "size":  21168,
-                      "sha256":  "13741b336d2010eba200d271c539ed07448677b5e8ecdd3ff8c1c9043a1a08d6",
+                      "size":  21936,
+                      "sha256":  "46a2154e86fd319e542bb0956d99a365bc55dc5359f8e437f0b0d8ef7337836b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/EnchantedItemSkills-ru.dat"
                   },
                   {
@@ -6176,8 +6176,8 @@
                   },
                   {
                       "path":  "system-ru/ru/L2GameDataName.dat",
-                      "size":  963120,
-                      "sha256":  "f7a32337d34440702fed264dbecf04112c7fb8a6856d1dfbc896131a89632d9e",
+                      "size":  965040,
+                      "sha256":  "277dd674db6b0a0c8668054c08d3a894e7a95ae49d1f830945b80be88ddd209d",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/L2GameDataName.dat"
                   },
                   {
@@ -7627,6 +7627,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ZoneName-ru.dat"
                   },
                   {
+                      "path":  "system-ru/Running.ini",
+                      "size":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Running.ini"
+                  },
+                  {
                       "path":  "system-ru/SmallFont.gly",
                       "size":  181780,
                       "sha256":  "a36cae0518ab93f9f8293ed03a8ee561f25b75766d04dd641fa2e8059271f711",
@@ -7778,8 +7785,8 @@
                   },
                   {
                       "path":  "system-ru/UIDEV.ini",
-                      "size":  170,
-                      "sha256":  "527e916238eafcc2992ce76d879793729afea77b1413dc614f0ff0444b21ac12",
+                      "size":  171,
+                      "sha256":  "cb5fe9cbc3e591f9967c85cd39c9e93c8e36f1876c7b0c93ae12797319daaa5b",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UIDEV.ini"
                   },
@@ -7888,8 +7895,8 @@
                   },
                   {
                       "path":  "system-ru/WindowsInfo.ini",
-                      "size":  4515,
-                      "sha256":  "0849ccdfa918667d8ad19e2cbccc4d9e42d4824762c94370d0fded2467ca1875",
+                      "size":  4856,
+                      "sha256":  "3e7c4e790c0c2f2ffb99c6008ab4c9ae5ab3954d36b0de9cb2525f3e721020af",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/WindowsInfo.ini"
                   },
