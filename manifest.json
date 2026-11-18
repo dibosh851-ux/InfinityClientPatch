@@ -1,6 +1,6 @@
 {
-    "version":  "patch-2026.11.18.0902",
-    "generatedAt":  "2026-11-18T09:02:50",
+    "version":  "patch-2026.11.18.1141",
+    "generatedAt":  "2026-11-18T11:41:58",
     "root":  "files",
     "files":  [
                   {
@@ -3187,14 +3187,14 @@
                   },
                   {
                       "path":  "system-en/Interface.u",
-                      "size":  55506284,
-                      "sha256":  "cebdae1c73027c3a9590f34a4c286c47f990248755b5a01efe9266571d2ec344",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/cebdae1c73027c3a9590f34a4c286c47f990248755b5a01efe9266571d2ec344-Interface.u"
+                      "size":  55510733,
+                      "sha256":  "22f3851cefe1224bcfa36524a1c88d23d135c1d5e8e6cbfd203bcef274c3f85e",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/22f3851cefe1224bcfa36524a1c88d23d135c1d5e8e6cbfd203bcef274c3f85e-Interface.u"
                   },
                   {
                       "path":  "system-en/Interface.xdat",
-                      "size":  7410183,
-                      "sha256":  "e34e277f65f08e38fce3895465f210c9935ec9019b6d29bfc3cd66a561c55cd2",
+                      "size":  7411531,
+                      "sha256":  "2c36416f54538f1fef6a5b4b32871d6b7a92650c277cd44fd8bb14500f34758b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-en/Interface.xdat"
                   },
                   {
@@ -4327,7 +4327,7 @@
                   {
                       "path":  "system-ru/HardWare.ini",
                       "size":  417,
-                      "sha256":  "58fae8dcb1a2cffc8e75ac8b567e4ffcc07483ec4fa5b809183b53f1b5b69ace",
+                      "sha256":  "0f56e838afb0906c8fbe911b7b8aa06814795819dd2f8589bdc2be1c6878925f",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/HardWare.ini"
                   },
@@ -4393,8 +4393,8 @@
                   },
                   {
                       "path":  "system-ru/InfinityLobbyVitalityTrace.ini",
-                      "size":  327,
-                      "sha256":  "d6a4a77f413e4c6b5e4eec3ad0cd0abae7eda0d2a20e6d01b4471fb640f560f5",
+                      "size":  326,
+                      "sha256":  "d57b4d75eaa448714eff56f981006f44dad62d6ef372efca299c392fa94ef67b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/InfinityLobbyVitalityTrace.ini"
                   },
                   {
@@ -4423,14 +4423,14 @@
                   },
                   {
                       "path":  "system-ru/Interface.u",
-                      "size":  55506284,
-                      "sha256":  "cebdae1c73027c3a9590f34a4c286c47f990248755b5a01efe9266571d2ec344",
-                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/cebdae1c73027c3a9590f34a4c286c47f990248755b5a01efe9266571d2ec344-Interface.u"
+                      "size":  55510733,
+                      "sha256":  "22f3851cefe1224bcfa36524a1c88d23d135c1d5e8e6cbfd203bcef274c3f85e",
+                      "url":  "https://github.com/dibosh851-ux/InfinityClientPatch/releases/download/patch-files-2026-11/22f3851cefe1224bcfa36524a1c88d23d135c1d5e8e6cbfd203bcef274c3f85e-Interface.u"
                   },
                   {
                       "path":  "system-ru/Interface.xdat",
-                      "size":  7410183,
-                      "sha256":  "e34e277f65f08e38fce3895465f210c9935ec9019b6d29bfc3cd66a561c55cd2",
+                      "size":  7411531,
+                      "sha256":  "2c36416f54538f1fef6a5b4b32871d6b7a92650c277cd44fd8bb14500f34758b",
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Interface.xdat"
                   },
                   {
@@ -7639,6 +7639,13 @@
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/ru/ZoneName-ru.dat"
                   },
                   {
+                      "path":  "system-ru/Running.ini",
+                      "size":  0,
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "preserveExisting":  true,
+                      "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/Running.ini"
+                  },
+                  {
                       "path":  "system-ru/SmallFont.gly",
                       "size":  181780,
                       "sha256":  "a36cae0518ab93f9f8293ed03a8ee561f25b75766d04dd641fa2e8059271f711",
@@ -7791,7 +7798,7 @@
                   {
                       "path":  "system-ru/UIDEV.ini",
                       "size":  171,
-                      "sha256":  "578477cdd1ea2fa5e40bcbe00fa083174cbc1e007557ea38680ed7f494a8126e",
+                      "sha256":  "418a6de4567056791e2c296d0d35b4f58c5fca1019c891b22f75d4bd3e212521",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/UIDEV.ini"
                   },
@@ -7900,8 +7907,8 @@
                   },
                   {
                       "path":  "system-ru/WindowsInfo.ini",
-                      "size":  4561,
-                      "sha256":  "90577bc2dfa6264e603f84d539a522bf89921dcaf801f96337137f8553fb7964",
+                      "size":  4627,
+                      "sha256":  "380c45870080a103cdb4107de5f8dbd3a4b25b59a222bf338ea877369eafe0aa",
                       "preserveExisting":  true,
                       "url":  "https://raw.githubusercontent.com/dibosh851-ux/InfinityClientPatch/main/files/system-ru/WindowsInfo.ini"
                   },
